@@ -5289,5 +5289,719 @@
     "builtin": false,
     "source": "https://www.coachesclipboard.net/AnchorsZoneOffense.html",
     "updatedAt": "2026-10-14T00:20:15.596Z"
+  },
+  {
+    "category": "offence",
+    "tags": [
+      "Triangle",
+      "Half-court",
+      "Man defence"
+    ],
+    "version": 1,
+    "builtin": true,
+    "updatedAt": "2026-10-14T02:00:00.000Z",
+    "source": "https://www.coachesclipboard.net/TriangleOffense.html",
+    "id": "triangle-post-split",
+    "title": "Triangle: Post feed + split",
+    "summary": "Feed Sam on the block, then cut for a layup or open shot.",
+    "notes": "START\nFC (6) feeds Michael (11) on the right wing. Alex (99) holds the corner, Sam (19) posts on the right block and Chan (64) spaces the weak elbow.\n\nACTION\nMichael feeds Sam and cuts along the baseline side of the post. Alex cuts over the top. Sam passes to an open cutter, scores if left alone or kicks out to FC.\n\nREAD\nIf the entry is denied, reverse through FC instead of forcing a pass. Versus a packed 2–3 zone, look for the short corner. Lachlan (30) can replace Alex as the cutter.",
+    "frames": [
+      {
+        "label": "1. Set triangle",
+        "note": "FC (6) passes to Michael (11); Alex (99) stays in the corner.",
+        "own": {
+          "6": [
+            7.5,
+            9.7
+          ],
+          "11": [
+            13.3,
+            6.2
+          ],
+          "19": [
+            11,
+            2.2
+          ],
+          "64": [
+            4.4,
+            5.4
+          ],
+          "99": [
+            13.7,
+            0.9
+          ]
+        },
+        "opponents": {
+          "a": [
+            4.3,
+            7
+          ],
+          "b": [
+            10.7,
+            7
+          ],
+          "c": [
+            2.8,
+            3.4
+          ],
+          "d": [
+            7.5,
+            2.7
+          ],
+          "e": [
+            12.1,
+            3.4
+          ]
+        },
+        "ball": {
+          "side": "own",
+          "player": "6"
+        },
+        "arrows": [
+          {
+            "kind": "pass",
+            "from": [
+              7.5,
+              9.7
+            ],
+            "to": [
+              13.3,
+              6.2
+            ]
+          }
+        ],
+        "screens": []
+      },
+      {
+        "label": "2. Post + split",
+        "note": "Michael (11) feeds Sam (19) then cuts low; Alex (99) cuts high.",
+        "own": {
+          "6": [
+            7.5,
+            9.7
+          ],
+          "11": [
+            13.3,
+            6.2
+          ],
+          "19": [
+            11,
+            2.2
+          ],
+          "64": [
+            4.4,
+            5.4
+          ],
+          "99": [
+            13.7,
+            0.9
+          ]
+        },
+        "opponents": {
+          "a": [
+            4.3,
+            7
+          ],
+          "b": [
+            10.7,
+            7
+          ],
+          "c": [
+            2.8,
+            3.4
+          ],
+          "d": [
+            7.5,
+            2.7
+          ],
+          "e": [
+            12.1,
+            3.4
+          ]
+        },
+        "ball": {
+          "side": "own",
+          "player": "11"
+        },
+        "arrows": [
+          {
+            "kind": "pass",
+            "from": [
+              13.3,
+              6.2
+            ],
+            "to": [
+              11,
+              2.2
+            ]
+          },
+          {
+            "kind": "move",
+            "from": [
+              13.3,
+              6.2
+            ],
+            "to": [
+              9.2,
+              1.2
+            ]
+          },
+          {
+            "kind": "move",
+            "from": [
+              13.7,
+              0.9
+            ],
+            "to": [
+              9.7,
+              3.6
+            ]
+          }
+        ],
+        "screens": []
+      },
+      {
+        "label": "3. Finish",
+        "note": "Sam (19) finds an open cutter, scores on the block or kicks out.",
+        "own": {
+          "6": [
+            7.5,
+            9.7
+          ],
+          "11": [
+            9.2,
+            1.2
+          ],
+          "19": [
+            11,
+            2.2
+          ],
+          "64": [
+            4.4,
+            5.4
+          ],
+          "99": [
+            9.7,
+            3.6
+          ]
+        },
+        "opponents": {
+          "a": [
+            4.3,
+            7
+          ],
+          "b": [
+            10.7,
+            7
+          ],
+          "c": [
+            2.8,
+            3.4
+          ],
+          "d": [
+            7.5,
+            2.7
+          ],
+          "e": [
+            12.1,
+            3.4
+          ]
+        },
+        "ball": {
+          "side": "own",
+          "player": "19"
+        },
+        "arrows": [
+          {
+            "kind": "pass",
+            "from": [
+              11,
+              2.2
+            ],
+            "to": [
+              9.7,
+              3.6
+            ]
+          }
+        ],
+        "screens": []
+      }
+    ]
+  },
+  {
+    "category": "offence",
+    "tags": [
+      "Triangle",
+      "Half-court",
+      "Man defence"
+    ],
+    "version": 1,
+    "builtin": true,
+    "updatedAt": "2026-10-14T02:00:00.000Z",
+    "source": "https://www.coachesclipboard.net/TriangleOffense.html",
+    "id": "triangle-corner-backdoor",
+    "title": "Triangle: Corner pass + cut",
+    "summary": "Pass to the corner and cut toward the rim for an easy finish.",
+    "notes": "START\nMichael (11) on the wing, Alex (99) in the corner, Sam (19) inside. FC (6) stays at the top; Chan (64) spaces weak side.\n\nACTION\nMichael passes to Alex in the corner, then cuts hard toward the rim. Sam seals the low defender. Alex passes to Michael on the cut, feeds Sam or drives the baseline when open.\n\nREAD\nIf the lane is crowded, Alex reverses the ball rather than forcing it. Lachlan (30) can be the cutter when he plays instead of Michael.",
+    "frames": [
+      {
+        "label": "1. Wing entry",
+        "note": "FC (6) passes to Michael (11) on the wing.",
+        "own": {
+          "6": [
+            7.5,
+            9.7
+          ],
+          "11": [
+            13.3,
+            6.2
+          ],
+          "19": [
+            11,
+            2.2
+          ],
+          "64": [
+            4.4,
+            5.4
+          ],
+          "99": [
+            13.7,
+            0.9
+          ]
+        },
+        "opponents": {
+          "a": [
+            4.3,
+            7
+          ],
+          "b": [
+            10.7,
+            7
+          ],
+          "c": [
+            2.8,
+            3.4
+          ],
+          "d": [
+            7.5,
+            2.7
+          ],
+          "e": [
+            12.1,
+            3.4
+          ]
+        },
+        "ball": {
+          "side": "own",
+          "player": "6"
+        },
+        "arrows": [
+          {
+            "kind": "pass",
+            "from": [
+              7.5,
+              9.7
+            ],
+            "to": [
+              13.3,
+              6.2
+            ]
+          }
+        ],
+        "screens": []
+      },
+      {
+        "label": "2. Corner + cut",
+        "note": "Michael (11) passes to Alex (99) and immediately cuts to the basket.",
+        "own": {
+          "6": [
+            7.5,
+            9.7
+          ],
+          "11": [
+            13.3,
+            6.2
+          ],
+          "19": [
+            11,
+            2.2
+          ],
+          "64": [
+            4.4,
+            5.4
+          ],
+          "99": [
+            13.7,
+            0.9
+          ]
+        },
+        "opponents": {
+          "a": [
+            4.3,
+            7
+          ],
+          "b": [
+            10.7,
+            7
+          ],
+          "c": [
+            2.8,
+            3.4
+          ],
+          "d": [
+            7.5,
+            2.7
+          ],
+          "e": [
+            12.1,
+            3.4
+          ]
+        },
+        "ball": {
+          "side": "own",
+          "player": "11"
+        },
+        "arrows": [
+          {
+            "kind": "pass",
+            "from": [
+              13.3,
+              6.2
+            ],
+            "to": [
+              13.7,
+              0.9
+            ]
+          },
+          {
+            "kind": "move",
+            "from": [
+              13.3,
+              6.2
+            ],
+            "to": [
+              8.8,
+              1.5
+            ]
+          }
+        ],
+        "screens": []
+      },
+      {
+        "label": "3. Corner read",
+        "note": "Alex (99) passes to Michael (11), feeds Sam (19) or drives the baseline.",
+        "own": {
+          "6": [
+            7.5,
+            9.7
+          ],
+          "11": [
+            8.8,
+            1.5
+          ],
+          "19": [
+            11,
+            2.2
+          ],
+          "64": [
+            4.4,
+            5.4
+          ],
+          "99": [
+            13.7,
+            0.9
+          ]
+        },
+        "opponents": {
+          "a": [
+            4.3,
+            7
+          ],
+          "b": [
+            10.7,
+            7
+          ],
+          "c": [
+            2.8,
+            3.4
+          ],
+          "d": [
+            7.5,
+            2.7
+          ],
+          "e": [
+            12.1,
+            3.4
+          ]
+        },
+        "ball": {
+          "side": "own",
+          "player": "99"
+        },
+        "arrows": [
+          {
+            "kind": "pass",
+            "from": [
+              13.7,
+              0.9
+            ],
+            "to": [
+              8.8,
+              1.5
+            ]
+          },
+          {
+            "kind": "dribble",
+            "from": [
+              13.7,
+              0.9
+            ],
+            "to": [
+              11.9,
+              1.6
+            ]
+          }
+        ],
+        "screens": []
+      }
+    ]
+  },
+  {
+    "category": "offence",
+    "tags": [
+      "Triangle",
+      "Half-court",
+      "Man defence"
+    ],
+    "version": 1,
+    "builtin": true,
+    "updatedAt": "2026-10-14T02:00:00.000Z",
+    "source": "https://www.coachesclipboard.net/TriangleOffense.html",
+    "id": "triangle-pinch-post",
+    "title": "Triangle: Pinch-post handoff",
+    "summary": "Reverse the ball to Chan at the elbow for a handoff or backdoor.",
+    "notes": "START\nUse the triangle on the right: Michael (11) wing, Alex (99) corner, Sam (19) block. FC (6) is up top and Chan (64) at the weak elbow.\n\nACTION\nIf the post pass is denied, Michael reverses to FC. FC feeds Chan at the elbow then cuts tightly past him. Chan hands off to FC for the drive, or hits FC cutting backdoor if overplayed.\n\nREAD\nMichael and Alex maintain width, Sam stays ready inside. Lachlan (30) can make the backdoor cut when on court. Most useful against man defence.",
+    "frames": [
+      {
+        "label": "1. Reverse",
+        "note": "Michael (11) reverses to FC (6) when the post entry is denied.",
+        "own": {
+          "6": [
+            7.5,
+            9.7
+          ],
+          "11": [
+            13.3,
+            6.2
+          ],
+          "19": [
+            11,
+            2.2
+          ],
+          "64": [
+            4.4,
+            5.4
+          ],
+          "99": [
+            13.7,
+            0.9
+          ]
+        },
+        "opponents": {
+          "a": [
+            4.3,
+            7
+          ],
+          "b": [
+            10.7,
+            7
+          ],
+          "c": [
+            2.8,
+            3.4
+          ],
+          "d": [
+            7.5,
+            2.7
+          ],
+          "e": [
+            12.1,
+            3.4
+          ]
+        },
+        "ball": {
+          "side": "own",
+          "player": "11"
+        },
+        "arrows": [
+          {
+            "kind": "pass",
+            "from": [
+              13.3,
+              6.2
+            ],
+            "to": [
+              7.5,
+              9.7
+            ]
+          }
+        ],
+        "screens": []
+      },
+      {
+        "label": "2. Elbow feed",
+        "note": "FC (6) passes to Chan (64) at the elbow, then cuts around him.",
+        "own": {
+          "6": [
+            7.5,
+            9.7
+          ],
+          "11": [
+            13.3,
+            6.2
+          ],
+          "19": [
+            11,
+            2.2
+          ],
+          "64": [
+            4.4,
+            5.4
+          ],
+          "99": [
+            13.7,
+            0.9
+          ]
+        },
+        "opponents": {
+          "a": [
+            4.3,
+            7
+          ],
+          "b": [
+            10.7,
+            7
+          ],
+          "c": [
+            2.8,
+            3.4
+          ],
+          "d": [
+            7.5,
+            2.7
+          ],
+          "e": [
+            12.1,
+            3.4
+          ]
+        },
+        "ball": {
+          "side": "own",
+          "player": "6"
+        },
+        "arrows": [
+          {
+            "kind": "pass",
+            "from": [
+              7.5,
+              9.7
+            ],
+            "to": [
+              4.4,
+              5.4
+            ]
+          },
+          {
+            "kind": "move",
+            "from": [
+              7.5,
+              9.7
+            ],
+            "to": [
+              5.4,
+              5.1
+            ]
+          }
+        ],
+        "screens": []
+      },
+      {
+        "label": "3. Handoff + drive",
+        "note": "Chan (64) hands off to FC (6), or passes backdoor if FC is denied.",
+        "own": {
+          "6": [
+            5.4,
+            5.1
+          ],
+          "11": [
+            13.3,
+            6.2
+          ],
+          "19": [
+            11,
+            2.2
+          ],
+          "64": [
+            4.4,
+            5.4
+          ],
+          "99": [
+            13.7,
+            0.9
+          ]
+        },
+        "opponents": {
+          "a": [
+            4.3,
+            7
+          ],
+          "b": [
+            10.7,
+            7
+          ],
+          "c": [
+            2.8,
+            3.4
+          ],
+          "d": [
+            7.5,
+            2.7
+          ],
+          "e": [
+            12.1,
+            3.4
+          ]
+        },
+        "ball": {
+          "side": "own",
+          "player": "64"
+        },
+        "arrows": [
+          {
+            "kind": "pass",
+            "from": [
+              4.4,
+              5.4
+            ],
+            "to": [
+              5.4,
+              5.1
+            ]
+          },
+          {
+            "kind": "dribble",
+            "from": [
+              5.4,
+              5.1
+            ],
+            "to": [
+              7.4,
+              2.1
+            ]
+          }
+        ],
+        "screens": []
+      }
+    ]
   }
 ]
