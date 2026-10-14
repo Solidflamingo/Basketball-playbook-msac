@@ -4,9 +4,9 @@
     "title": "High-post flash",
     "category": "offence",
     "summary": "Play through #99 in the middle, with #19 behind the zone.",
-    "notes": "First read: #99 scores if the centre stays low. If the centre comes up, find #19 behind him. Keep #6 available for the reversal and #11 wide.\n\nAGAINST A 2\u20133 ZONE\nUse #99\u2019s middle catch to make the centre choose between #99 and #19. Flash into an open gap; do not force a covered entry.\n\nAGAINST HALF-COURT MAN\n#99 cuts to get free from his own defender. If denied, use #19\u2019s screen or a backdoor cut; the foul line is not automatically open against man.\n\nAGAINST FULL-COURT MAN\nBeat pressure first. #6, #11 or #99 can advance the ball; offer a return pass. Take an open breakaway, otherwise organise this set in the frontcourt.",
+    "notes": "FC (6) starts the ball movement and keeps the reversal available. Michael (11) spaces the wing and feeds Alex (99) when the middle is open. Alex catches facing the rim: shoot or drive if Sam's defender stays low; pass to Sam (19) when that defender steps up. Chan (64) seals the help defender. Lachlan (30), when on court, cuts behind the defence as it collapses.\n\nAGAINST A 2–3 ZONE\nMake the centre choose between Alex (99) and Sam (19). Do not force the middle pass if it is covered; reverse the ball.\n\nAGAINST HALF-COURT MAN\nAlex (99) uses a screen or cut to find space. Michael (11) holds width and looks for a cutter; FC (6) resets if denied.\n\nAGAINST FULL-COURT MAN\nFC (6) leads the press break. Michael (11) and Alex (99) provide passing outlets. Secure the frontcourt before running the set.",
     "tags": [
-      "2\u20133 zone",
+      "2–3 zone",
       "Inside touch",
       "Man adjustments"
     ],
@@ -16,7 +16,7 @@
     "frames": [
       {
         "label": "1. Entry",
-        "note": "6 \u2192 11; #99 flashes to the foul line. #19 stays behind the centre.",
+        "note": "6 → 11; #99 flashes to the foul line. #19 stays behind the centre.",
         "own": {
           "6": [
             7.5,
@@ -93,7 +93,7 @@
       },
       {
         "label": "2. Feed #99",
-        "note": "11 \u2192 99; face the rim. If the centre stays low, #99 shoots or drives.",
+        "note": "11 → 99; face the rim. If the centre stays low, #99 shoots or drives.",
         "own": {
           "6": [
             7.5,
@@ -159,7 +159,7 @@
       },
       {
         "label": "3. Find #19",
-        "note": "Centre steps up: 99 \u2192 19, then #19 finishes. #64 seals the weak side.",
+        "note": "Centre steps up: 99 → 19, then #19 finishes. #64 seals the weak side.",
         "own": {
           "6": [
             7.5,
@@ -241,7 +241,7 @@
       },
       {
         "label": "#6 kick-out",
-        "note": "Top defenders pinch in: 99 \u2192 6 for the open shot or closeout attack.",
+        "note": "Top defenders pinch in: 99 → 6 for the open shot or closeout attack.",
         "own": {
           "6": [
             7.5,
@@ -313,9 +313,9 @@
     "title": "Overload + inside seal",
     "category": "offence",
     "summary": "Load one side, then reverse to an inside flash.",
-    "notes": "Use the overload to create a decision for the low defender. Reverse the ball if that side stays covered. #64 screens the centre as #19 flashes.\n\nAGAINST A 2\u20133 ZONE\nReverse when the overloaded side stays covered. #64 delays the centre and #19 flashes into the newly opened middle.\n\nAGAINST HALF-COURT MAN\nLoading one side does not create the same numerical advantage against man. Use #64 to screen #19\u2019s defender, and have #99 attack a closeout if the post catch is denied.\n\nAGAINST FULL-COURT MAN\nBeat pressure first. #6, #11 or #99 can advance the ball; offer a return pass. Take an open breakaway, otherwise organise this set in the frontcourt.",
+    "notes": "Use the overload to create a decision for the low defender. Reverse the ball if that side stays covered. Chan (64) screens the centre as Sam (19) flashes.\n\nAGAINST A 2–3 ZONE\nReverse when the overloaded side stays covered. Chan (64) delays the centre and Sam (19) flashes into the newly opened middle.\n\nAGAINST HALF-COURT MAN\nLoading one side does not create the same numerical advantage against man. Use Chan (64) to screen Sam (19)’s defender, and have Alex (99) attack a closeout if the post catch is denied.\n\nAGAINST FULL-COURT MAN\nBeat pressure first. FC (6), Michael (11) or Alex (99) can advance the ball; offer a return pass. Take an open breakaway, otherwise organise this set in the frontcourt.",
     "tags": [
-      "2\u20133 zone",
+      "2–3 zone",
       "Inside touch",
       "Man adjustments"
     ],
@@ -325,7 +325,7 @@
     "frames": [
       {
         "label": "1. Entry + fill",
-        "note": "6 \u2192 99, then #6 cuts to the corner; #11 fills the top. #64 starts high.",
+        "note": "6 → 99, then #6 cuts to the corner; #11 fills the top. #64 starts high.",
         "own": {
           "6": [
             7.5,
@@ -417,7 +417,7 @@
       },
       {
         "label": "2. Reverse + seal",
-        "note": "99 \u2192 11; #64 seals the centre as #19 flashes into the lane.",
+        "note": "99 → 11; #64 seals the centre as #19 flashes into the lane.",
         "own": {
           "6": [
             13.9,
@@ -510,7 +510,7 @@
       },
       {
         "label": "3. Feed #19",
-        "note": "11 \u2192 19 before the zone recovers. #99 and #6 keep the right side wide.",
+        "note": "11 → 19 before the zone recovers. #99 and #6 keep the right side wide.",
         "own": {
           "6": [
             13.9,
@@ -592,7 +592,7 @@
       },
       {
         "label": "#6 corner read",
-        "note": "If the low defender stays inside: 99 \u2192 6 in the corner.",
+        "note": "If the low defender stays inside: 99 → 6 in the corner.",
         "own": {
           "6": [
             13.9,
@@ -663,10 +663,10 @@
     "id": "zone-ball-screen",
     "title": "Zone ball screen",
     "category": "offence",
-    "summary": "Let #99 attack a top defender\u2019s screen, with #19 rolling.",
-    "notes": "Set a stationary screen with space for the defender. #99 attacks with his head up. #19 rolls only after the screen; #11 holds the corner.\n\nAGAINST A 2\u20133 ZONE\nScreen a top defender to create a gap. Read the centre on the drive and the low defender on the corner pass.\n\nAGAINST HALF-COURT MAN\n#19 screens #99\u2019s defender and rolls. #99 reads under, trail or switch, and passes only after help commits.\n\nAGAINST FULL-COURT MAN\nBeat pressure first. #6, #11 or #99 can advance the ball; offer a return pass. Take an open breakaway, otherwise organise this set in the frontcourt.",
+    "summary": "Let #99 attack a top defender’s screen, with #19 rolling.",
+    "notes": "Set a stationary screen with space for the defender. Alex (99) attacks with his head up. Sam (19) rolls only after the screen; Michael (11) holds the corner.\n\nAGAINST A 2–3 ZONE\nScreen a top defender to create a gap. Read the centre on the drive and the low defender on the corner pass.\n\nAGAINST HALF-COURT MAN\nSam (19) screens Alex (99)’s defender and rolls. Alex (99) reads under, trail or switch, and passes only after help commits.\n\nAGAINST FULL-COURT MAN\nBeat pressure first. FC (6), Michael (11) or Alex (99) can advance the ball; offer a return pass. Take an open breakaway, otherwise organise this set in the frontcourt.",
     "tags": [
-      "2\u20133 zone",
+      "2–3 zone",
       "Screen & roll",
       "Man adjustments"
     ],
@@ -676,7 +676,7 @@
     "frames": [
       {
         "label": "1. Entry + screen",
-        "note": "6 \u2192 99; #19 screens the right top defender. #11 holds the corner.",
+        "note": "6 → 99; #19 screens the right top defender. #11 holds the corner.",
         "own": {
           "6": [
             7.5,
@@ -839,7 +839,7 @@
       },
       {
         "label": "3. #19 rolls",
-        "note": "Centre stops #99: 99 \u2192 19 rolling inside. #64 stays out of the lane.",
+        "note": "Centre stops #99: 99 → 19 rolling inside. #64 stays out of the lane.",
         "own": {
           "6": [
             7.5,
@@ -916,7 +916,7 @@
       },
       {
         "label": "#11 corner read",
-        "note": "Low-right defender helps: 99 \u2192 11 in the corner. #6 is the top outlet.",
+        "note": "Low-right defender helps: 99 → 11 in the corner. #6 is the top outlet.",
         "own": {
           "6": [
             7.5,
@@ -987,10 +987,10 @@
     "id": "runner",
     "title": "Runner",
     "category": "offence",
-    "summary": "Free #99 with a baseline run and #19\u2019s screen.",
-    "notes": "Time the baseline run with the pass. #19 screens the low defender; after screening he seals inside. If #99 is open, take the shot.\n\nAGAINST A 2\u20133 ZONE\nRun behind the low line as the ball arrives on the entry side. Shoot the free corner catch or find the inside seal.\n\nAGAINST HALF-COURT MAN\n#19 screens #99\u2019s own defender. #99 runs shoulder-to-shoulder off the screen; curl a trailing defender or fade if the defender goes underneath.\n\nAGAINST FULL-COURT MAN\nBeat pressure first. #6, #11 or #99 can advance the ball; offer a return pass. Take an open breakaway, otherwise organise this set in the frontcourt.",
+    "summary": "Free #99 with a baseline run and #19’s screen.",
+    "notes": "Time the baseline run with the pass. Sam (19) screens the low defender; after screening he seals inside. If Alex (99) is open, take the shot.\n\nAGAINST A 2–3 ZONE\nRun behind the low line as the ball arrives on the entry side. Shoot the free corner catch or find the inside seal.\n\nAGAINST HALF-COURT MAN\nSam (19) screens Alex (99)’s own defender. Alex (99) runs shoulder-to-shoulder off the screen; curl a trailing defender or fade if the defender goes underneath.\n\nAGAINST FULL-COURT MAN\nBeat pressure first. FC (6), Michael (11) or Alex (99) can advance the ball; offer a return pass. Take an open breakaway, otherwise organise this set in the frontcourt.",
     "tags": [
-      "2\u20133 zone",
+      "2–3 zone",
       "Baseline action",
       "Man adjustments"
     ],
@@ -1000,7 +1000,7 @@
     "frames": [
       {
         "label": "1. Entry",
-        "note": "6 \u2192 11. #99 starts in the opposite corner; #19 prepares the baseline screen.",
+        "note": "6 → 11. #99 starts in the opposite corner; #19 prepares the baseline screen.",
         "own": {
           "6": [
             4.3,
@@ -1066,7 +1066,7 @@
       },
       {
         "label": "2. Baseline run",
-        "note": "#99 runs behind the zone, using #19\u2019s screen to reach the right corner.",
+        "note": "#99 runs behind the zone, using #19’s screen to reach the right corner.",
         "own": {
           "6": [
             4.3,
@@ -1141,7 +1141,7 @@
       },
       {
         "label": "3. Find #99",
-        "note": "11 \u2192 99 for the corner shot. #19 seals inside; #64 flashes as an outlet.",
+        "note": "11 → 99 for the corner shot. #19 seals inside; #64 flashes as an outlet.",
         "own": {
           "6": [
             4.3,
@@ -1234,7 +1234,7 @@
       },
       {
         "label": "Inside counter",
-        "note": "If the closeout takes #99\u2019s shot away, feed #19\u2019s seal. #64 is the middle outlet.",
+        "note": "If the closeout takes #99’s shot away, feed #19’s seal. #64 is the middle outlet.",
         "own": {
           "6": [
             4.3,
@@ -1306,9 +1306,9 @@
     "title": "Runner Pin",
     "category": "offence",
     "summary": "Counter Runner with a change of direction and a skip.",
-    "notes": "Sell the initial run. #99 changes direction behind #64\u2019s pin screen. The skip pass must be clearly open; use a pass fake if the defender reads it.\n\nAGAINST A 2\u20133 ZONE\nMake the fake baseline run believable. Skip back only when the passing lane is open; #64 pins the low defender on the return side.\n\nAGAINST HALF-COURT MAN\n#64 pins #99\u2019s defender on the return route. If the defender top-locks the corner, look for an open backdoor route instead of forcing the skip.\n\nAGAINST FULL-COURT MAN\nBeat pressure first. #6, #11 or #99 can advance the ball; offer a return pass. Take an open breakaway, otherwise organise this set in the frontcourt.",
+    "notes": "Sell the initial run. Alex (99) changes direction behind Chan (64)’s pin screen. The skip pass must be clearly open; use a pass fake if the defender reads it.\n\nAGAINST A 2–3 ZONE\nMake the fake baseline run believable. Skip back only when the passing lane is open; Chan (64) pins the low defender on the return side.\n\nAGAINST HALF-COURT MAN\nChan (64) pins Alex (99)’s defender on the return route. If the defender top-locks the corner, look for an open backdoor route instead of forcing the skip.\n\nAGAINST FULL-COURT MAN\nBeat pressure first. FC (6), Michael (11) or Alex (99) can advance the ball; offer a return pass. Take an open breakaway, otherwise organise this set in the frontcourt.",
     "tags": [
-      "2\u20133 zone",
+      "2–3 zone",
       "Baseline action",
       "Man adjustments"
     ],
@@ -1318,7 +1318,7 @@
     "frames": [
       {
         "label": "1. Entry",
-        "note": "6 \u2192 11. Start like Runner, with #99 in the left corner.",
+        "note": "6 → 11. Start like Runner, with #99 in the left corner.",
         "own": {
           "6": [
             4.3,
@@ -1454,7 +1454,7 @@
       },
       {
         "label": "3. Skip back",
-        "note": "#99 returns to the left corner behind #64\u2019s screen; #11 skips the ball across.",
+        "note": "#99 returns to the left corner behind #64’s screen; #11 skips the ball across.",
         "own": {
           "6": [
             4.3,
@@ -1612,9 +1612,9 @@
     "title": "Short-corner dive",
     "category": "offence",
     "summary": "Get #19 the ball beside the paint, then send #99 behind the centre.",
-    "notes": "Make the short-corner pass before starting the dive. #99 goes behind the centre; #11 clears toward the corner. #19 reads the inside pass or kick-out.\n\nAGAINST A 2\u20133 ZONE\nThe short-corner catch pulls attention down and outside. #99 dives only as #19 receives, then reads the centre and the kick-out.\n\nAGAINST HALF-COURT MAN\n#19 first establishes position on his own defender. #99 cuts behind a helping defender, or uses #64\u2019s screen if his defender stays attached.\n\nAGAINST FULL-COURT MAN\nBeat pressure first. #6, #11 or #99 can advance the ball; offer a return pass. Take an open breakaway, otherwise organise this set in the frontcourt.",
+    "notes": "Make the short-corner pass before starting the dive. Alex (99) goes behind the centre; Michael (11) clears toward the corner. Sam (19) reads the inside pass or kick-out.\n\nAGAINST A 2–3 ZONE\nThe short-corner catch pulls attention down and outside. Alex (99) dives only as Sam (19) receives, then reads the centre and the kick-out.\n\nAGAINST HALF-COURT MAN\nSam (19) first establishes position on his own defender. Alex (99) cuts behind a helping defender, or uses Chan (64)’s screen if his defender stays attached.\n\nAGAINST FULL-COURT MAN\nBeat pressure first. FC (6), Michael (11) or Alex (99) can advance the ball; offer a return pass. Take an open breakaway, otherwise organise this set in the frontcourt.",
     "tags": [
-      "2\u20133 zone",
+      "2–3 zone",
       "Inside touch",
       "Man adjustments"
     ],
@@ -1624,7 +1624,7 @@
     "frames": [
       {
         "label": "1. Entry",
-        "note": "6 \u2192 11. #19 slides to the short corner; #99 flashes into the middle.",
+        "note": "6 → 11. #19 slides to the short corner; #99 flashes into the middle.",
         "own": {
           "6": [
             7.5,
@@ -1712,7 +1712,7 @@
       },
       {
         "label": "2. Short corner",
-        "note": "11 \u2192 19. On that catch, #99 dives to the right block and #11 slides to the corner.",
+        "note": "11 → 19. On that catch, #99 dives to the right block and #11 slides to the corner.",
         "own": {
           "6": [
             7.5,
@@ -1866,7 +1866,7 @@
       },
       {
         "label": "#11 kick-out",
-        "note": "If the low defender protects #99\u2019s dive, #19 passes back out to #11 in the corner.",
+        "note": "If the low defender protects #99’s dive, #19 passes back out to #11 in the corner.",
         "own": {
           "6": [
             7.5,
@@ -1938,9 +1938,9 @@
     "title": "Starting shape",
     "category": "defence",
     "summary": "#6 pressures the top; #11 guards the high-post lane. #19 protects the middle; #99 and #64 cover the low sides.",
-    "notes": "These are proposed 2\u20133 assignments based on the roles described, not a reconstruction of a game possession. Mirror on the other side. Keep #19 central only if he is your strongest interior defender. Move on the pass and communicate before handing off the ball.",
+    "notes": "FC (6) and Michael (11) cover the top in the proposed 2–3. Sam (19) anchors the middle; Alex (99) and Chan (64) take the low sides. Lachlan (30) rotates into the wing or top based on the lineup. Shift as the pass travels; protect the paint first.",
     "tags": [
-      "2\u20133 zone",
+      "2–3 zone",
       "Rotation"
     ],
     "version": 0,
@@ -2062,9 +2062,9 @@
     "title": "Right-wing pass",
     "category": "defence",
     "summary": "#11 takes the wing; #6 denies the middle. #99 drops toward the block; #64 tucks into weak-side help; #19 shifts across.",
-    "notes": "These are proposed 2\u20133 assignments based on the roles described, not a reconstruction of a game possession. Mirror on the other side. Keep #19 central only if he is your strongest interior defender. Move on the pass and communicate before handing off the ball.",
+    "notes": "As the pass goes right, the nearest top defender pressures the wing. Alex (99) covers the low-right gap and corner while Sam (19) protects the middle. Michael (11) or FC (6) denies the easy return pass. Talk through the handoff.",
     "tags": [
-      "2\u20133 zone",
+      "2–3 zone",
       "Rotation"
     ],
     "version": 0,
@@ -2253,9 +2253,9 @@
     "title": "Right-corner pass",
     "category": "defence",
     "summary": "#99 takes the corner; #19 covers the right block. #64 protects behind him; #6 covers the elbow; #11 denies the return pass.",
-    "notes": "These are proposed 2\u20133 assignments based on the roles described, not a reconstruction of a game possession. Mirror on the other side. Keep #19 central only if he is your strongest interior defender. Move on the pass and communicate before handing off the ball.",
+    "notes": "Alex (99) closes out on the right corner under control. Sam (19) covers the rim and inside cut; Chan (64) protects the weak-side rebound. FC (6) and Michael (11) take away the pass back to the wing and top.",
     "tags": [
-      "2\u20133 zone",
+      "2–3 zone",
       "Rotation"
     ],
     "version": 0,
@@ -2444,9 +2444,9 @@
     "title": "High-post catch",
     "category": "defence",
     "summary": "#19 closes to the high post; #99 and #64 squeeze behind him to cover the rim and cutters. #6 and #11 recover to shooters.",
-    "notes": "These are proposed 2\u20133 assignments based on the roles described, not a reconstruction of a game possession. Mirror on the other side. Keep #19 central only if he is your strongest interior defender. Move on the pass and communicate before handing off the ball.",
+    "notes": "Sam (19) steps to contest the high-post catch. Alex (99) and Chan (64) pinch in to protect the rim and cutters. FC (6) and Michael (11) stay ready to recover to shooters; do not leave the basket exposed.",
     "tags": [
-      "2\u20133 zone",
+      "2–3 zone",
       "Rotation"
     ],
     "version": 0,
@@ -2635,9 +2635,9 @@
     "title": "Baseline drive",
     "category": "defence",
     "summary": "If #99 is beaten, #19 stops the baseline drive; #64 takes the player at the rim. #99 recovers; the guards cover the kick-outs.",
-    "notes": "These are proposed 2\u20133 assignments based on the roles described, not a reconstruction of a game possession. Mirror on the other side. Keep #19 central only if he is your strongest interior defender. Move on the pass and communicate before handing off the ball.",
+    "notes": "Stop the baseline drive before it reaches the rim. The nearest low defender contains, Sam (19) helps at the basket, and the opposite low defender drops to cover the cutter. FC (6) and Michael (11) recover to kick-out shooters.",
     "tags": [
-      "2\u20133 zone",
+      "2–3 zone",
       "Rotation"
     ],
     "version": 0,
@@ -2826,9 +2826,9 @@
     "title": "Middle drive",
     "category": "defence",
     "summary": "If the front is split, #19 stops the driver; #99 and #64 protect behind him. #6 recovers and #11 holds the wing passing lane.",
-    "notes": "These are proposed 2\u20133 assignments based on the roles described, not a reconstruction of a game possession. Mirror on the other side. Keep #19 central only if he is your strongest interior defender. Move on the pass and communicate before handing off the ball.",
+    "notes": "FC (6) or Michael (11) contains the first step. Sam (19) protects the paint; Alex (99) and Chan (64) pinch in without losing their corner assignments. Lachlan (30), if on court, helps and rotates back to the wing.",
     "tags": [
-      "2\u20133 zone",
+      "2–3 zone",
       "Rotation"
     ],
     "version": 0,
@@ -3017,9 +3017,9 @@
     "title": "Skip: first closeout",
     "category": "defence",
     "summary": "#64 closes to the left wing first because he can arrive sooner. #6 moves across to take over; everyone else shifts left.",
-    "notes": "These are proposed 2\u20133 assignments based on the roles described, not a reconstruction of a game possession. Mirror on the other side. Keep #19 central only if he is your strongest interior defender. Move on the pass and communicate before handing off the ball.",
+    "notes": "On a skip pass, the nearest defender closes out with controlled steps and a hand up. FC (6) and Michael (11) communicate who takes the wing. Alex (99), Sam (19) and Chan (64) shift behind the closeout.",
     "tags": [
-      "2\u20133 zone",
+      "2–3 zone",
       "Rotation"
     ],
     "version": 0,
@@ -3207,10 +3207,10 @@
     "id": "defence-skip-handover",
     "title": "Skip: handover",
     "category": "defence",
-    "summary": "#6 calls \u201cI\u2019ve got ball\u201d; only then does #64 return low. #11 denies the high post; #19 and #99 cover the paint.",
-    "notes": "These are proposed 2\u20133 assignments based on the roles described, not a reconstruction of a game possession. Mirror on the other side. Keep #19 central only if he is your strongest interior defender. Move on the pass and communicate before handing off the ball.",
+    "summary": "#6 calls “I’ve got ball”; only then does #64 return low. #11 denies the high post; #19 and #99 cover the paint.",
+    "notes": "Call the handover early. The top defender contains the receiver until the low defender is set; do not both chase the ball. Sam (19) stays central and the weak-side defender protects the cutter and rebound.",
     "tags": [
-      "2\u20133 zone",
+      "2–3 zone",
       "Rotation"
     ],
     "version": 0,
@@ -3219,7 +3219,7 @@
     "frames": [
       {
         "label": "Movement",
-        "note": "#6 calls \u201cI\u2019ve got ball\u201d; only then does #64 return low. #11 denies the high post; #19 and #99 cover the paint.",
+        "note": "#6 calls “I’ve got ball”; only then does #64 return low. #11 denies the high post; #19 and #99 cover the paint.",
         "own": {
           "6": [
             4.7,
@@ -3329,7 +3329,7 @@
       },
       {
         "label": "Positions",
-        "note": "#6 calls \u201cI\u2019ve got ball\u201d; only then does #64 return low. #11 denies the high post; #19 and #99 cover the paint.",
+        "note": "#6 calls “I’ve got ball”; only then does #64 return low. #11 denies the high post; #19 and #99 cover the paint.",
         "own": {
           "6": [
             2.8,
@@ -3388,9 +3388,9 @@
     "title": "Corner-shot box-outs",
     "category": "defence",
     "summary": "#99 boxes out the shooter; #19, #64 and #6 find inside opponents. #11 covers long rebounds. No early leak-out.",
-    "notes": "Find a player before chasing the ball. #99 blocks out the shooter; the inside players establish rebounding position. Stay until the rebound is secured.",
+    "notes": "On the corner shot, Alex (99) and Sam (19) attack the rebound. Chan (64) seals his player and holds the weak-side box-out. FC (6), Michael (11) and Lachlan (30), when on court, identify a body before leaking out.",
     "tags": [
-      "2\u20133 zone",
+      "2–3 zone",
       "Box out"
     ],
     "version": 0,
@@ -3569,7 +3569,7 @@
     "summary": "A simple perimeter handoff that gets #99 moving into a gap.",
     "category": "offence",
     "tags": [
-      "2\u20133 zone",
+      "2–3 zone",
       "Handoff"
     ],
     "frames": [
@@ -3873,7 +3873,7 @@
         "screens": []
       }
     ],
-    "notes": "AGAINST A 2\u20133 ZONE\nUse this when a top zone defender is willing to come out. #99 receives above the zone, then shoots if the defender stays back or attacks the gap if he closes. The handoff alone does not remove the low defenders; read the centre before continuing.\n\nAGAINST HALF-COURT MAN\n#99 comes tight off #6. If his defender trails, turn the corner; if the defender goes under and the shot is in range, shoot. On a switch, face up and read the matchup.\n\nAGAINST FULL-COURT MAN\nBeat pressure first. #6, #11 or #99 can advance the ball; offer a return pass. Take an open breakaway, otherwise organise this set in the frontcourt.\n\nTIMING / SPACING\nMake the transfer shoulder-to-shoulder. #6 stops before screening and keeps arms in. #19 stays behind the centre; #64 holds the short corner to keep the driving path open.",
+    "notes": "AGAINST A 2–3 ZONE\nUse this when a top zone defender is willing to come out. Alex (99) receives above the zone, then shoots if the defender stays back or attacks the gap if he closes. The handoff alone does not remove the low defenders; read the centre before continuing.\n\nAGAINST HALF-COURT MAN\nAlex (99) comes tight off FC (6). If his defender trails, turn the corner; if the defender goes under and the shot is in range, shoot. On a switch, face up and read the matchup.\n\nAGAINST FULL-COURT MAN\nBeat pressure first. FC (6), Michael (11) or Alex (99) can advance the ball; offer a return pass. Take an open breakaway, otherwise organise this set in the frontcourt.\n\nTIMING / SPACING\nMake the transfer shoulder-to-shoulder. FC (6) stops before screening and keeps arms in. Sam (19) stays behind the centre; Chan (64) holds the short corner to keep the driving path open.",
     "version": 1,
     "builtin": false,
     "source": "https://www.breakthroughbasketball.com/coaching/zoom-offense",
@@ -3882,10 +3882,10 @@
   {
     "id": "zone-zoom-99",
     "title": "Zoom / Chicago: screen into handoff",
-    "summary": "Free #99 from the corner with #64\u2019s screen, then #11\u2019s handoff.",
+    "summary": "Free #99 from the corner with #64’s screen, then #11’s handoff.",
     "category": "offence",
     "tags": [
-      "2\u20133 zone",
+      "2–3 zone",
       "Handoff",
       "Baseline lift"
     ],
@@ -4287,7 +4287,7 @@
         "screens": []
       }
     ],
-    "notes": "AGAINST A 2\u20133 ZONE\nThe first screen delays the low defender; the handoff changes the angle of attack. #99 reads the next top defender, then the low defender. If the zone passes him off cleanly, use the open outside shot, corner pass or reversal instead of driving into three defenders.\n\nAGAINST HALF-COURT MAN\n#64 screens #99\u2019s own defender. #99 sets the defender up, comes tight off the screen and receives from #11 at speed. Overplay can create a backdoor cut if the lane is clear.\n\nAGAINST FULL-COURT MAN\nBeat pressure first. #6, #11 or #99 can advance the ball; offer a return pass. Take an open breakaway, otherwise organise this set in the frontcourt.\n\nTIMING / SPACING\n#64 sets before #99 arrives. #11 delivers the handoff as #99 exits the screen, then clears the corner. Keep #19 on the weak side until help commits.",
+    "notes": "AGAINST A 2–3 ZONE\nThe first screen delays the low defender; the handoff changes the angle of attack. Alex (99) reads the next top defender, then the low defender. If the zone passes him off cleanly, use the open outside shot, corner pass or reversal instead of driving into three defenders.\n\nAGAINST HALF-COURT MAN\nChan (64) screens Alex (99)’s own defender. Alex (99) sets the defender up, comes tight off the screen and receives from Michael (11) at speed. Overplay can create a backdoor cut if the lane is clear.\n\nAGAINST FULL-COURT MAN\nBeat pressure first. FC (6), Michael (11) or Alex (99) can advance the ball; offer a return pass. Take an open breakaway, otherwise organise this set in the frontcourt.\n\nTIMING / SPACING\nChan (64) sets before Alex (99) arrives. Michael (11) delivers the handoff as Alex (99) exits the screen, then clears the corner. Keep Sam (19) on the weak side until help commits.",
     "version": 1,
     "builtin": false,
     "source": "https://www.breakthroughbasketball.com/offense/zoom-offense-ball-screens",
@@ -4296,10 +4296,10 @@
   {
     "id": "fake-handoff-99",
     "title": "Fake handoff: #99 keeps",
-    "summary": "Use #6\u2019s handoff threat to open an inside driving lane for #99.",
+    "summary": "Use #6’s handoff threat to open an inside driving lane for #99.",
     "category": "offence",
     "tags": [
-      "2\u20133 zone",
+      "2–3 zone",
       "Handoff counter"
     ],
     "frames": [
@@ -4587,7 +4587,7 @@
         "screens": []
       }
     ],
-    "notes": "AGAINST A 2\u20133 ZONE\nCall this as a counter after a real handoff has made the top defender react. If the defender stays in position, make the real handoff or reverse the ball. On the keep, #99 still has to read the centre rather than force a layup.\n\nAGAINST HALF-COURT MAN\nKeep the ball when the defender cheats to stop #6 receiving. #6 continues his cut to clear space; #99 attacks the opening and passes if help stops him.\n\nAGAINST FULL-COURT MAN\nBeat pressure first. #6, #11 or #99 can advance the ball; offer a return pass. Take an open breakaway, otherwise organise this set in the frontcourt.\n\nTIMING / SPACING\nShow the same entry as the real handoff. Do not push or hook a defender. #6 must keep moving after the fake; both handlers standing together would kill the spacing.",
+    "notes": "AGAINST A 2–3 ZONE\nCall this as a counter after a real handoff has made the top defender react. If the defender stays in position, make the real handoff or reverse the ball. On the keep, Alex (99) still has to read the centre rather than force a layup.\n\nAGAINST HALF-COURT MAN\nKeep the ball when the defender cheats to stop FC (6) receiving. FC (6) continues his cut to clear space; Alex (99) attacks the opening and passes if help stops him.\n\nAGAINST FULL-COURT MAN\nBeat pressure first. FC (6), Michael (11) or Alex (99) can advance the ball; offer a return pass. Take an open breakaway, otherwise organise this set in the frontcourt.\n\nTIMING / SPACING\nShow the same entry as the real handoff. Do not push or hook a defender. FC (6) must keep moving after the fake; both handlers standing together would kill the spacing.",
     "version": 1,
     "builtin": false,
     "source": "https://coachad.com/articles/using-fake-handoffs-to-boost-your-offense/",
@@ -4599,7 +4599,7 @@
     "summary": "Lift the low defender, seal the centre and send #99 behind the zone.",
     "category": "offence",
     "tags": [
-      "2\u20133 zone",
+      "2–3 zone",
       "Baseline cut",
       "Inside finish"
     ],
@@ -4754,7 +4754,7 @@
       },
       {
         "label": "3. Baseline cut",
-        "note": "#99 cuts below the centre from the left block to the right side. #19 holds his legal position to delay the centre\u2019s rotation.",
+        "note": "#99 cuts below the centre from the left block to the right side. #19 holds his legal position to delay the centre’s rotation.",
         "own": {
           "6": [
             10,
@@ -4899,7 +4899,7 @@
         ]
       }
     ],
-    "notes": "AGAINST A 2\u20133 ZONE\nThis is a documented 2\u20133-zone set. Its trigger is the low defender coming out to #11. #19 screens the centre and #99 crosses underneath into the open block. If the top guard covers #11 and the low defender stays home, reverse the ball; the intended inside window has not opened.\n\nAGAINST HALF-COURT MAN\nAdapt #19\u2019s screen to #99\u2019s own defender. #99 comes tight off the cross-screen and seals after a switch. Do not assume the middle defender is the correct screening target against man.\n\nAGAINST FULL-COURT MAN\nBeat pressure first. #6, #11 or #99 can advance the ball; offer a return pass. Take an open breakaway, otherwise organise this set in the frontcourt.\n\nTIMING / SPACING\nWing entry first, centre screen second, cutter third. Keep the screen stationary and give a defender who cannot see it room to react. #99 shows hands and stops for the catch.",
+    "notes": "AGAINST A 2–3 ZONE\nThis is a documented 2–3-zone set. Its trigger is the low defender coming out to Michael (11). Sam (19) screens the centre and Alex (99) crosses underneath into the open block. If the top guard covers Michael (11) and the low defender stays home, reverse the ball; the intended inside window has not opened.\n\nAGAINST HALF-COURT MAN\nAdapt Sam (19)’s screen to Alex (99)’s own defender. Alex (99) comes tight off the cross-screen and seals after a switch. Do not assume the middle defender is the correct screening target against man.\n\nAGAINST FULL-COURT MAN\nBeat pressure first. FC (6), Michael (11) or Alex (99) can advance the ball; offer a return pass. Take an open breakaway, otherwise organise this set in the frontcourt.\n\nTIMING / SPACING\nWing entry first, centre screen second, cutter third. Keep the screen stationary and give a defender who cannot see it room to react. Alex (99) shows hands and stops for the catch.",
     "version": 1,
     "builtin": false,
     "source": "https://www.breakthroughbasketball.com/playcreator/view.asp?ID=39&type=play",
@@ -4911,7 +4911,7 @@
     "summary": "On reversal, #99 dives first and #19 flashes through the middle second.",
     "category": "offence",
     "tags": [
-      "2\u20133 zone",
+      "2–3 zone",
       "Middle cut",
       "Baseline dive"
     ],
@@ -5284,7 +5284,7 @@
         "screens": []
       }
     ],
-    "notes": "AGAINST A 2\u20133 ZONE\nThis adapts the Anchors post X-cut used against a 2\u20133. Reverse the ball, then send the HIGH player first and the LOW player second. The crossing cuts force the zone to cover two different levels. #19 faces the rim and reads #99 underneath; he can finish himself if the middle is open.\n\nAGAINST HALF-COURT MAN\nUse the post exchange to cut across your own defenders and establish inside position. If both catches are denied, flow into #19 screening for #6 while #99 clears or seals, rather than forcing a pass through a covered zone-style gap.\n\nAGAINST FULL-COURT MAN\nBeat pressure first. #6, #11 or #99 can advance the ball; offer a return pass. Take an open breakaway, otherwise organise this set in the frontcourt.\n\nTIMING / SPACING\nStagger the cuts. #99 goes first, #19 follows after the paths clear. #64 stays as the reversal outlet; #11 keeps the far wing available. Neither cutter waits in the lane.",
+    "notes": "AGAINST A 2–3 ZONE\nThis adapts the Anchors post X-cut used against a 2–3. Reverse the ball, then send the HIGH player first and the LOW player second. The crossing cuts force the zone to cover two different levels. Sam (19) faces the rim and reads Alex (99) underneath; he can finish himself if the middle is open.\n\nAGAINST HALF-COURT MAN\nUse the post exchange to cut across your own defenders and establish inside position. If both catches are denied, flow into Sam (19) screening for FC (6) while Alex (99) clears or seals, rather than forcing a pass through a covered zone-style gap.\n\nAGAINST FULL-COURT MAN\nBeat pressure first. FC (6), Michael (11) or Alex (99) can advance the ball; offer a return pass. Take an open breakaway, otherwise organise this set in the frontcourt.\n\nTIMING / SPACING\nStagger the cuts. Alex (99) goes first, Sam (19) follows after the paths clear. Chan (64) stays as the reversal outlet; Michael (11) keeps the far wing available. Neither cutter waits in the lane.",
     "version": 1,
     "builtin": false,
     "source": "https://www.coachesclipboard.net/AnchorsZoneOffense.html",
