@@ -1,0 +1,5293 @@
+[
+  {
+    "id": "high-post-flash",
+    "title": "High-post flash",
+    "category": "offence",
+    "summary": "Play through #99 in the middle, with #19 behind the zone.",
+    "notes": "First read: #99 scores if the centre stays low. If the centre comes up, find #19 behind him. Keep #6 available for the reversal and #11 wide.\n\nAGAINST A 2\u20133 ZONE\nUse #99\u2019s middle catch to make the centre choose between #99 and #19. Flash into an open gap; do not force a covered entry.\n\nAGAINST HALF-COURT MAN\n#99 cuts to get free from his own defender. If denied, use #19\u2019s screen or a backdoor cut; the foul line is not automatically open against man.\n\nAGAINST FULL-COURT MAN\nBeat pressure first. #6, #11 or #99 can advance the ball; offer a return pass. Take an open breakaway, otherwise organise this set in the frontcourt.",
+    "tags": [
+      "2\u20133 zone",
+      "Inside touch",
+      "Man adjustments"
+    ],
+    "version": 1,
+    "builtin": true,
+    "source": "https://www.breakthroughbasketball.com/plays/Overload-zone2",
+    "frames": [
+      {
+        "label": "1. Entry",
+        "note": "6 \u2192 11; #99 flashes to the foul line. #19 stays behind the centre.",
+        "own": {
+          "6": [
+            7.5,
+            9.7
+          ],
+          "11": [
+            13.5,
+            6.4
+          ],
+          "19": [
+            11,
+            1.6
+          ],
+          "64": [
+            4.1,
+            1.8
+          ],
+          "99": [
+            4.8,
+            5
+          ]
+        },
+        "opponents": {
+          "a": [
+            4.3,
+            7
+          ],
+          "b": [
+            10.7,
+            7
+          ],
+          "c": [
+            2.8,
+            3.4
+          ],
+          "d": [
+            7.5,
+            2.7
+          ],
+          "e": [
+            12.1,
+            3.4
+          ]
+        },
+        "ball": {
+          "side": "own",
+          "player": "6"
+        },
+        "arrows": [
+          {
+            "kind": "pass",
+            "from": [
+              7.5,
+              9.7
+            ],
+            "to": [
+              13.5,
+              6.4
+            ]
+          },
+          {
+            "kind": "move",
+            "from": [
+              4.8,
+              5
+            ],
+            "to": [
+              7.5,
+              5.4
+            ]
+          }
+        ],
+        "screens": []
+      },
+      {
+        "label": "2. Feed #99",
+        "note": "11 \u2192 99; face the rim. If the centre stays low, #99 shoots or drives.",
+        "own": {
+          "6": [
+            7.5,
+            9.7
+          ],
+          "11": [
+            13.5,
+            6.4
+          ],
+          "19": [
+            11,
+            1.6
+          ],
+          "64": [
+            4.1,
+            1.8
+          ],
+          "99": [
+            7.5,
+            5.4
+          ]
+        },
+        "opponents": {
+          "a": [
+            4.3,
+            7
+          ],
+          "b": [
+            11.6,
+            6.8
+          ],
+          "c": [
+            2.8,
+            3.4
+          ],
+          "d": [
+            7.5,
+            2.7
+          ],
+          "e": [
+            12.1,
+            3.4
+          ]
+        },
+        "ball": {
+          "side": "own",
+          "player": "11"
+        },
+        "arrows": [
+          {
+            "kind": "pass",
+            "from": [
+              13.5,
+              6.4
+            ],
+            "to": [
+              7.5,
+              5.4
+            ]
+          }
+        ],
+        "screens": []
+      },
+      {
+        "label": "3. Find #19",
+        "note": "Centre steps up: 99 \u2192 19, then #19 finishes. #64 seals the weak side.",
+        "own": {
+          "6": [
+            7.5,
+            9.7
+          ],
+          "11": [
+            13.5,
+            6.4
+          ],
+          "19": [
+            11,
+            1.6
+          ],
+          "64": [
+            4.1,
+            1.8
+          ],
+          "99": [
+            7.5,
+            5.4
+          ]
+        },
+        "opponents": {
+          "a": [
+            4.3,
+            7
+          ],
+          "b": [
+            11.6,
+            6.8
+          ],
+          "c": [
+            2.8,
+            3.4
+          ],
+          "d": [
+            7.5,
+            3.8
+          ],
+          "e": [
+            12.1,
+            3.4
+          ]
+        },
+        "ball": {
+          "side": "own",
+          "player": "99"
+        },
+        "arrows": [
+          {
+            "kind": "pass",
+            "from": [
+              7.5,
+              5.4
+            ],
+            "to": [
+              11,
+              1.6
+            ]
+          },
+          {
+            "kind": "move",
+            "from": [
+              11,
+              1.6
+            ],
+            "to": [
+              8,
+              1.6
+            ]
+          }
+        ],
+        "screens": [
+          [
+            4.9,
+            2.5
+          ]
+        ]
+      },
+      {
+        "label": "#6 kick-out",
+        "note": "Top defenders pinch in: 99 \u2192 6 for the open shot or closeout attack.",
+        "own": {
+          "6": [
+            7.5,
+            9.7
+          ],
+          "11": [
+            13.5,
+            6.4
+          ],
+          "19": [
+            11,
+            1.6
+          ],
+          "64": [
+            4.1,
+            1.8
+          ],
+          "99": [
+            7.5,
+            5.4
+          ]
+        },
+        "opponents": {
+          "a": [
+            5.5,
+            6.7
+          ],
+          "b": [
+            9.7,
+            6.7
+          ],
+          "c": [
+            2.8,
+            3.4
+          ],
+          "d": [
+            7.5,
+            3.8
+          ],
+          "e": [
+            12.1,
+            3.4
+          ]
+        },
+        "ball": {
+          "side": "own",
+          "player": "99"
+        },
+        "arrows": [
+          {
+            "kind": "pass",
+            "from": [
+              7.5,
+              5.4
+            ],
+            "to": [
+              7.5,
+              9.7
+            ]
+          }
+        ],
+        "screens": []
+      }
+    ],
+    "updatedAt": "2026-10-14T00:20:20.838Z"
+  },
+  {
+    "id": "overload-inside-seal",
+    "title": "Overload + inside seal",
+    "category": "offence",
+    "summary": "Load one side, then reverse to an inside flash.",
+    "notes": "Use the overload to create a decision for the low defender. Reverse the ball if that side stays covered. #64 screens the centre as #19 flashes.\n\nAGAINST A 2\u20133 ZONE\nReverse when the overloaded side stays covered. #64 delays the centre and #19 flashes into the newly opened middle.\n\nAGAINST HALF-COURT MAN\nLoading one side does not create the same numerical advantage against man. Use #64 to screen #19\u2019s defender, and have #99 attack a closeout if the post catch is denied.\n\nAGAINST FULL-COURT MAN\nBeat pressure first. #6, #11 or #99 can advance the ball; offer a return pass. Take an open breakaway, otherwise organise this set in the frontcourt.",
+    "tags": [
+      "2\u20133 zone",
+      "Inside touch",
+      "Man adjustments"
+    ],
+    "version": 1,
+    "builtin": true,
+    "source": "https://www.breakthroughbasketball.com/plays/Overload-zone",
+    "frames": [
+      {
+        "label": "1. Entry + fill",
+        "note": "6 \u2192 99, then #6 cuts to the corner; #11 fills the top. #64 starts high.",
+        "own": {
+          "6": [
+            7.5,
+            9.7
+          ],
+          "11": [
+            1.5,
+            6.4
+          ],
+          "19": [
+            10.9,
+            1.8
+          ],
+          "64": [
+            5.3,
+            5.4
+          ],
+          "99": [
+            13.5,
+            6.4
+          ]
+        },
+        "opponents": {
+          "a": [
+            4.3,
+            7
+          ],
+          "b": [
+            10.7,
+            7
+          ],
+          "c": [
+            2.8,
+            3.4
+          ],
+          "d": [
+            7.5,
+            2.7
+          ],
+          "e": [
+            12.1,
+            3.4
+          ]
+        },
+        "ball": {
+          "side": "own",
+          "player": "6"
+        },
+        "arrows": [
+          {
+            "kind": "pass",
+            "from": [
+              7.5,
+              9.7
+            ],
+            "to": [
+              13.5,
+              6.4
+            ]
+          },
+          {
+            "kind": "move",
+            "from": [
+              7.5,
+              9.7
+            ],
+            "to": [
+              13.9,
+              0.9
+            ],
+            "curve": [
+              14.8,
+              8.5
+            ]
+          },
+          {
+            "kind": "move",
+            "from": [
+              1.5,
+              6.4
+            ],
+            "to": [
+              7.5,
+              9.7
+            ]
+          }
+        ],
+        "screens": []
+      },
+      {
+        "label": "2. Reverse + seal",
+        "note": "99 \u2192 11; #64 seals the centre as #19 flashes into the lane.",
+        "own": {
+          "6": [
+            13.9,
+            0.9
+          ],
+          "11": [
+            7.5,
+            9.7
+          ],
+          "19": [
+            10.9,
+            1.8
+          ],
+          "64": [
+            5.3,
+            5.4
+          ],
+          "99": [
+            13.5,
+            6.4
+          ]
+        },
+        "opponents": {
+          "a": [
+            4.3,
+            7
+          ],
+          "b": [
+            11.5,
+            6.8
+          ],
+          "c": [
+            2.8,
+            3.4
+          ],
+          "d": [
+            7.5,
+            2.7
+          ],
+          "e": [
+            12.1,
+            3.4
+          ]
+        },
+        "ball": {
+          "side": "own",
+          "player": "99"
+        },
+        "arrows": [
+          {
+            "kind": "pass",
+            "from": [
+              13.5,
+              6.4
+            ],
+            "to": [
+              7.5,
+              9.7
+            ]
+          },
+          {
+            "kind": "move",
+            "from": [
+              5.3,
+              5.4
+            ],
+            "to": [
+              6.1,
+              3.7
+            ]
+          },
+          {
+            "kind": "move",
+            "from": [
+              10.9,
+              1.8
+            ],
+            "to": [
+              8.9,
+              4.5
+            ]
+          }
+        ],
+        "screens": [
+          [
+            7,
+            3.25
+          ]
+        ]
+      },
+      {
+        "label": "3. Feed #19",
+        "note": "11 \u2192 19 before the zone recovers. #99 and #6 keep the right side wide.",
+        "own": {
+          "6": [
+            13.9,
+            0.9
+          ],
+          "11": [
+            7.5,
+            9.7
+          ],
+          "19": [
+            8.9,
+            4.5
+          ],
+          "64": [
+            6.1,
+            3.7
+          ],
+          "99": [
+            13.5,
+            6.4
+          ]
+        },
+        "opponents": {
+          "a": [
+            4.3,
+            7
+          ],
+          "b": [
+            11.5,
+            6.8
+          ],
+          "c": [
+            2.8,
+            3.4
+          ],
+          "d": [
+            7.5,
+            2.7
+          ],
+          "e": [
+            12.1,
+            3.4
+          ]
+        },
+        "ball": {
+          "side": "own",
+          "player": "11"
+        },
+        "arrows": [
+          {
+            "kind": "pass",
+            "from": [
+              7.5,
+              9.7
+            ],
+            "to": [
+              8.9,
+              4.5
+            ]
+          },
+          {
+            "kind": "move",
+            "from": [
+              8.9,
+              4.5
+            ],
+            "to": [
+              9.2,
+              2
+            ]
+          }
+        ],
+        "screens": [
+          [
+            7,
+            3.25
+          ]
+        ]
+      },
+      {
+        "label": "#6 corner read",
+        "note": "If the low defender stays inside: 99 \u2192 6 in the corner.",
+        "own": {
+          "6": [
+            13.9,
+            0.9
+          ],
+          "11": [
+            7.5,
+            9.7
+          ],
+          "19": [
+            10.9,
+            1.8
+          ],
+          "64": [
+            5.3,
+            5.4
+          ],
+          "99": [
+            13.5,
+            6.4
+          ]
+        },
+        "opponents": {
+          "a": [
+            4.3,
+            7
+          ],
+          "b": [
+            11.5,
+            6.8
+          ],
+          "c": [
+            2.8,
+            3.4
+          ],
+          "d": [
+            7.5,
+            2.7
+          ],
+          "e": [
+            11.5,
+            3.8
+          ]
+        },
+        "ball": {
+          "side": "own",
+          "player": "99"
+        },
+        "arrows": [
+          {
+            "kind": "pass",
+            "from": [
+              13.5,
+              6.4
+            ],
+            "to": [
+              13.9,
+              0.9
+            ]
+          }
+        ],
+        "screens": []
+      }
+    ],
+    "updatedAt": "2026-10-14T00:20:27.698Z"
+  },
+  {
+    "id": "zone-ball-screen",
+    "title": "Zone ball screen",
+    "category": "offence",
+    "summary": "Let #99 attack a top defender\u2019s screen, with #19 rolling.",
+    "notes": "Set a stationary screen with space for the defender. #99 attacks with his head up. #19 rolls only after the screen; #11 holds the corner.\n\nAGAINST A 2\u20133 ZONE\nScreen a top defender to create a gap. Read the centre on the drive and the low defender on the corner pass.\n\nAGAINST HALF-COURT MAN\n#19 screens #99\u2019s defender and rolls. #99 reads under, trail or switch, and passes only after help commits.\n\nAGAINST FULL-COURT MAN\nBeat pressure first. #6, #11 or #99 can advance the ball; offer a return pass. Take an open breakaway, otherwise organise this set in the frontcourt.",
+    "tags": [
+      "2\u20133 zone",
+      "Screen & roll",
+      "Man adjustments"
+    ],
+    "version": 1,
+    "builtin": true,
+    "source": "https://assets.fiba.basketball/image/upload/documents-corporate-wabc-coaching-manual-level-3-eng.pdf",
+    "frames": [
+      {
+        "label": "1. Entry + screen",
+        "note": "6 \u2192 99; #19 screens the right top defender. #11 holds the corner.",
+        "own": {
+          "6": [
+            7.5,
+            9.7
+          ],
+          "11": [
+            13.9,
+            0.9
+          ],
+          "19": [
+            8.8,
+            5
+          ],
+          "64": [
+            3.9,
+            1.4
+          ],
+          "99": [
+            13.5,
+            6.4
+          ]
+        },
+        "opponents": {
+          "a": [
+            4.3,
+            7
+          ],
+          "b": [
+            10.7,
+            7
+          ],
+          "c": [
+            2.8,
+            3.4
+          ],
+          "d": [
+            7.5,
+            2.7
+          ],
+          "e": [
+            12.1,
+            3.4
+          ]
+        },
+        "ball": {
+          "side": "own",
+          "player": "6"
+        },
+        "arrows": [
+          {
+            "kind": "pass",
+            "from": [
+              7.5,
+              9.7
+            ],
+            "to": [
+              13.5,
+              6.4
+            ]
+          },
+          {
+            "kind": "move",
+            "from": [
+              8.8,
+              5
+            ],
+            "to": [
+              11.9,
+              7.8
+            ]
+          }
+        ],
+        "screens": []
+      },
+      {
+        "label": "2. #99 attacks",
+        "note": "#99 turns the corner; #19 rolls. If the lane stays open, #99 finishes.",
+        "own": {
+          "6": [
+            7.5,
+            9.7
+          ],
+          "11": [
+            13.9,
+            0.9
+          ],
+          "19": [
+            11.9,
+            7.8
+          ],
+          "64": [
+            3.9,
+            1.4
+          ],
+          "99": [
+            13.5,
+            6.4
+          ]
+        },
+        "opponents": {
+          "a": [
+            4.3,
+            7
+          ],
+          "b": [
+            10.7,
+            7
+          ],
+          "c": [
+            2.8,
+            3.4
+          ],
+          "d": [
+            7.5,
+            2.7
+          ],
+          "e": [
+            12.1,
+            3.4
+          ]
+        },
+        "ball": {
+          "side": "own",
+          "player": "99"
+        },
+        "arrows": [
+          {
+            "kind": "dribble",
+            "from": [
+              13.5,
+              6.4
+            ],
+            "to": [
+              9.9,
+              5.1
+            ],
+            "curve": [
+              12.1,
+              5
+            ]
+          },
+          {
+            "kind": "move",
+            "from": [
+              11.9,
+              7.8
+            ],
+            "to": [
+              8.2,
+              3.5
+            ]
+          }
+        ],
+        "screens": [
+          [
+            11.2,
+            7.1
+          ]
+        ]
+      },
+      {
+        "label": "3. #19 rolls",
+        "note": "Centre stops #99: 99 \u2192 19 rolling inside. #64 stays out of the lane.",
+        "own": {
+          "6": [
+            7.5,
+            9.7
+          ],
+          "11": [
+            13.9,
+            0.9
+          ],
+          "19": [
+            8.2,
+            3.5
+          ],
+          "64": [
+            3.9,
+            1.4
+          ],
+          "99": [
+            9.9,
+            5.1
+          ]
+        },
+        "opponents": {
+          "a": [
+            4.3,
+            7
+          ],
+          "b": [
+            11.2,
+            7.6
+          ],
+          "c": [
+            2.8,
+            3.4
+          ],
+          "d": [
+            8.5,
+            4.8
+          ],
+          "e": [
+            12.3,
+            3
+          ]
+        },
+        "ball": {
+          "side": "own",
+          "player": "99"
+        },
+        "arrows": [
+          {
+            "kind": "pass",
+            "from": [
+              9.9,
+              5.1
+            ],
+            "to": [
+              8.2,
+              3.5
+            ]
+          },
+          {
+            "kind": "move",
+            "from": [
+              8.2,
+              3.5
+            ],
+            "to": [
+              7.6,
+              1.6
+            ]
+          }
+        ],
+        "screens": []
+      },
+      {
+        "label": "#11 corner read",
+        "note": "Low-right defender helps: 99 \u2192 11 in the corner. #6 is the top outlet.",
+        "own": {
+          "6": [
+            7.5,
+            9.7
+          ],
+          "11": [
+            13.9,
+            0.9
+          ],
+          "19": [
+            8.2,
+            3.5
+          ],
+          "64": [
+            3.9,
+            1.4
+          ],
+          "99": [
+            9.9,
+            5.1
+          ]
+        },
+        "opponents": {
+          "a": [
+            4.3,
+            7
+          ],
+          "b": [
+            11.2,
+            7.6
+          ],
+          "c": [
+            2.8,
+            3.4
+          ],
+          "d": [
+            7.5,
+            2
+          ],
+          "e": [
+            11.9,
+            4.8
+          ]
+        },
+        "ball": {
+          "side": "own",
+          "player": "99"
+        },
+        "arrows": [
+          {
+            "kind": "pass",
+            "from": [
+              9.9,
+              5.1
+            ],
+            "to": [
+              13.9,
+              0.9
+            ]
+          }
+        ],
+        "screens": []
+      }
+    ],
+    "updatedAt": "2026-10-14T00:20:34.662Z"
+  },
+  {
+    "id": "runner",
+    "title": "Runner",
+    "category": "offence",
+    "summary": "Free #99 with a baseline run and #19\u2019s screen.",
+    "notes": "Time the baseline run with the pass. #19 screens the low defender; after screening he seals inside. If #99 is open, take the shot.\n\nAGAINST A 2\u20133 ZONE\nRun behind the low line as the ball arrives on the entry side. Shoot the free corner catch or find the inside seal.\n\nAGAINST HALF-COURT MAN\n#19 screens #99\u2019s own defender. #99 runs shoulder-to-shoulder off the screen; curl a trailing defender or fade if the defender goes underneath.\n\nAGAINST FULL-COURT MAN\nBeat pressure first. #6, #11 or #99 can advance the ball; offer a return pass. Take an open breakaway, otherwise organise this set in the frontcourt.",
+    "tags": [
+      "2\u20133 zone",
+      "Baseline action",
+      "Man adjustments"
+    ],
+    "version": 1,
+    "builtin": true,
+    "source": "https://www.breakthroughbasketball.com/offense/zone-offense",
+    "frames": [
+      {
+        "label": "1. Entry",
+        "note": "6 \u2192 11. #99 starts in the opposite corner; #19 prepares the baseline screen.",
+        "own": {
+          "6": [
+            4.3,
+            9.3
+          ],
+          "11": [
+            10.7,
+            9.3
+          ],
+          "19": [
+            10.9,
+            2.2
+          ],
+          "64": [
+            4.1,
+            2.2
+          ],
+          "99": [
+            1.1,
+            0.9
+          ]
+        },
+        "opponents": {
+          "a": [
+            4.3,
+            7
+          ],
+          "b": [
+            10.7,
+            7
+          ],
+          "c": [
+            2.8,
+            3.4
+          ],
+          "d": [
+            7.5,
+            2.7
+          ],
+          "e": [
+            12.1,
+            3.4
+          ]
+        },
+        "ball": {
+          "side": "own",
+          "player": "6"
+        },
+        "arrows": [
+          {
+            "kind": "pass",
+            "from": [
+              4.3,
+              9.3
+            ],
+            "to": [
+              10.7,
+              9.3
+            ]
+          }
+        ],
+        "screens": []
+      },
+      {
+        "label": "2. Baseline run",
+        "note": "#99 runs behind the zone, using #19\u2019s screen to reach the right corner.",
+        "own": {
+          "6": [
+            4.3,
+            9.3
+          ],
+          "11": [
+            10.7,
+            9.3
+          ],
+          "19": [
+            10.9,
+            2.2
+          ],
+          "64": [
+            4.1,
+            2.2
+          ],
+          "99": [
+            1.1,
+            0.9
+          ]
+        },
+        "opponents": {
+          "a": [
+            4.3,
+            7
+          ],
+          "b": [
+            10.7,
+            7
+          ],
+          "c": [
+            2.8,
+            3.4
+          ],
+          "d": [
+            7.5,
+            2.7
+          ],
+          "e": [
+            12.1,
+            3.4
+          ]
+        },
+        "ball": {
+          "side": "own",
+          "player": "11"
+        },
+        "arrows": [
+          {
+            "kind": "move",
+            "from": [
+              1.1,
+              0.9
+            ],
+            "to": [
+              13.9,
+              0.9
+            ],
+            "curve": [
+              7.5,
+              0.15
+            ]
+          }
+        ],
+        "screens": [
+          [
+            11.6,
+            2.8
+          ]
+        ]
+      },
+      {
+        "label": "3. Find #99",
+        "note": "11 \u2192 99 for the corner shot. #19 seals inside; #64 flashes as an outlet.",
+        "own": {
+          "6": [
+            4.3,
+            9.3
+          ],
+          "11": [
+            10.7,
+            9.3
+          ],
+          "19": [
+            10.9,
+            2.2
+          ],
+          "64": [
+            4.1,
+            2.2
+          ],
+          "99": [
+            13.9,
+            0.9
+          ]
+        },
+        "opponents": {
+          "a": [
+            4.3,
+            7
+          ],
+          "b": [
+            10.7,
+            7
+          ],
+          "c": [
+            2.8,
+            3.4
+          ],
+          "d": [
+            7.5,
+            2.7
+          ],
+          "e": [
+            12.1,
+            3.4
+          ]
+        },
+        "ball": {
+          "side": "own",
+          "player": "11"
+        },
+        "arrows": [
+          {
+            "kind": "pass",
+            "from": [
+              10.7,
+              9.3
+            ],
+            "to": [
+              13.9,
+              0.9
+            ]
+          },
+          {
+            "kind": "move",
+            "from": [
+              10.9,
+              2.2
+            ],
+            "to": [
+              8.7,
+              2.1
+            ]
+          },
+          {
+            "kind": "move",
+            "from": [
+              4.1,
+              2.2
+            ],
+            "to": [
+              7.5,
+              5.3
+            ]
+          }
+        ],
+        "screens": [
+          [
+            11.6,
+            2.8
+          ]
+        ]
+      },
+      {
+        "label": "Inside counter",
+        "note": "If the closeout takes #99\u2019s shot away, feed #19\u2019s seal. #64 is the middle outlet.",
+        "own": {
+          "6": [
+            4.3,
+            9.3
+          ],
+          "11": [
+            10.7,
+            9.3
+          ],
+          "19": [
+            8.7,
+            2.1
+          ],
+          "64": [
+            7.5,
+            5.3
+          ],
+          "99": [
+            13.9,
+            0.9
+          ]
+        },
+        "opponents": {
+          "a": [
+            4.3,
+            7
+          ],
+          "b": [
+            10.7,
+            7
+          ],
+          "c": [
+            2.8,
+            3.4
+          ],
+          "d": [
+            7.5,
+            2.7
+          ],
+          "e": [
+            12.5,
+            2.6
+          ]
+        },
+        "ball": {
+          "side": "own",
+          "player": "99"
+        },
+        "arrows": [
+          {
+            "kind": "pass",
+            "from": [
+              13.9,
+              0.9
+            ],
+            "to": [
+              8.7,
+              2.1
+            ]
+          }
+        ],
+        "screens": []
+      }
+    ],
+    "updatedAt": "2026-10-14T00:20:42.305Z"
+  },
+  {
+    "id": "runner-pin",
+    "title": "Runner Pin",
+    "category": "offence",
+    "summary": "Counter Runner with a change of direction and a skip.",
+    "notes": "Sell the initial run. #99 changes direction behind #64\u2019s pin screen. The skip pass must be clearly open; use a pass fake if the defender reads it.\n\nAGAINST A 2\u20133 ZONE\nMake the fake baseline run believable. Skip back only when the passing lane is open; #64 pins the low defender on the return side.\n\nAGAINST HALF-COURT MAN\n#64 pins #99\u2019s defender on the return route. If the defender top-locks the corner, look for an open backdoor route instead of forcing the skip.\n\nAGAINST FULL-COURT MAN\nBeat pressure first. #6, #11 or #99 can advance the ball; offer a return pass. Take an open breakaway, otherwise organise this set in the frontcourt.",
+    "tags": [
+      "2\u20133 zone",
+      "Baseline action",
+      "Man adjustments"
+    ],
+    "version": 1,
+    "builtin": true,
+    "source": "https://www.breakthroughbasketball.com/offense/zone-offense",
+    "frames": [
+      {
+        "label": "1. Entry",
+        "note": "6 \u2192 11. Start like Runner, with #99 in the left corner.",
+        "own": {
+          "6": [
+            4.3,
+            9.3
+          ],
+          "11": [
+            10.7,
+            9.3
+          ],
+          "19": [
+            10.9,
+            2.2
+          ],
+          "64": [
+            4.1,
+            2.2
+          ],
+          "99": [
+            1.1,
+            0.9
+          ]
+        },
+        "opponents": {
+          "a": [
+            4.3,
+            7
+          ],
+          "b": [
+            10.7,
+            7
+          ],
+          "c": [
+            2.8,
+            3.4
+          ],
+          "d": [
+            7.5,
+            2.7
+          ],
+          "e": [
+            12.1,
+            3.4
+          ]
+        },
+        "ball": {
+          "side": "own",
+          "player": "6"
+        },
+        "arrows": [
+          {
+            "kind": "pass",
+            "from": [
+              4.3,
+              9.3
+            ],
+            "to": [
+              10.7,
+              9.3
+            ]
+          }
+        ],
+        "screens": []
+      },
+      {
+        "label": "2. Fake run",
+        "note": "#99 starts across the baseline, then turns back. #64 prepares the pin screen.",
+        "own": {
+          "6": [
+            4.3,
+            9.3
+          ],
+          "11": [
+            10.7,
+            9.3
+          ],
+          "19": [
+            10.9,
+            2.2
+          ],
+          "64": [
+            4.1,
+            2.2
+          ],
+          "99": [
+            1.1,
+            0.9
+          ]
+        },
+        "opponents": {
+          "a": [
+            4.3,
+            7
+          ],
+          "b": [
+            10.7,
+            7
+          ],
+          "c": [
+            2.8,
+            3.4
+          ],
+          "d": [
+            7.5,
+            2.7
+          ],
+          "e": [
+            12.1,
+            3.4
+          ]
+        },
+        "ball": {
+          "side": "own",
+          "player": "11"
+        },
+        "arrows": [
+          {
+            "kind": "move",
+            "from": [
+              1.1,
+              0.9
+            ],
+            "to": [
+              5,
+              0.9
+            ],
+            "curve": [
+              3.2,
+              0.2
+            ]
+          }
+        ],
+        "screens": []
+      },
+      {
+        "label": "3. Skip back",
+        "note": "#99 returns to the left corner behind #64\u2019s screen; #11 skips the ball across.",
+        "own": {
+          "6": [
+            4.3,
+            9.3
+          ],
+          "11": [
+            10.7,
+            9.3
+          ],
+          "19": [
+            10.9,
+            2.2
+          ],
+          "64": [
+            3.8,
+            2
+          ],
+          "99": [
+            5,
+            0.9
+          ]
+        },
+        "opponents": {
+          "a": [
+            4.3,
+            7
+          ],
+          "b": [
+            10.7,
+            7
+          ],
+          "c": [
+            3,
+            3.4
+          ],
+          "d": [
+            7.5,
+            2.7
+          ],
+          "e": [
+            12.1,
+            3.4
+          ]
+        },
+        "ball": {
+          "side": "own",
+          "player": "11"
+        },
+        "arrows": [
+          {
+            "kind": "move",
+            "from": [
+              5,
+              0.9
+            ],
+            "to": [
+              1.1,
+              0.9
+            ],
+            "curve": [
+              3,
+              0.2
+            ]
+          },
+          {
+            "kind": "pass",
+            "from": [
+              10.7,
+              9.3
+            ],
+            "to": [
+              1.1,
+              0.9
+            ]
+          }
+        ],
+        "screens": [
+          [
+            3,
+            2.7
+          ]
+        ]
+      },
+      {
+        "label": "Catch + read",
+        "note": "#99 takes the open shot. #64 seals inside; #19 offers a middle outlet if covered.",
+        "own": {
+          "6": [
+            4.3,
+            9.3
+          ],
+          "11": [
+            10.7,
+            9.3
+          ],
+          "19": [
+            7.5,
+            5.3
+          ],
+          "64": [
+            5.3,
+            1.8
+          ],
+          "99": [
+            1.1,
+            0.9
+          ]
+        },
+        "opponents": {
+          "a": [
+            4.3,
+            7
+          ],
+          "b": [
+            10.7,
+            7
+          ],
+          "c": [
+            3,
+            3.4
+          ],
+          "d": [
+            7.5,
+            2.7
+          ],
+          "e": [
+            12.1,
+            3.4
+          ]
+        },
+        "ball": {
+          "side": "own",
+          "player": "99"
+        },
+        "arrows": [
+          {
+            "kind": "pass",
+            "from": [
+              1.1,
+              0.9
+            ],
+            "to": [
+              7.5,
+              1.575
+            ]
+          }
+        ],
+        "screens": []
+      }
+    ],
+    "updatedAt": "2026-10-14T00:20:49.787Z"
+  },
+  {
+    "id": "short-corner-dive",
+    "title": "Short-corner dive",
+    "category": "offence",
+    "summary": "Get #19 the ball beside the paint, then send #99 behind the centre.",
+    "notes": "Make the short-corner pass before starting the dive. #99 goes behind the centre; #11 clears toward the corner. #19 reads the inside pass or kick-out.\n\nAGAINST A 2\u20133 ZONE\nThe short-corner catch pulls attention down and outside. #99 dives only as #19 receives, then reads the centre and the kick-out.\n\nAGAINST HALF-COURT MAN\n#19 first establishes position on his own defender. #99 cuts behind a helping defender, or uses #64\u2019s screen if his defender stays attached.\n\nAGAINST FULL-COURT MAN\nBeat pressure first. #6, #11 or #99 can advance the ball; offer a return pass. Take an open breakaway, otherwise organise this set in the frontcourt.",
+    "tags": [
+      "2\u20133 zone",
+      "Inside touch",
+      "Man adjustments"
+    ],
+    "version": 1,
+    "builtin": true,
+    "source": "https://www.coachesclipboard.net/23ZoneOffense.html",
+    "frames": [
+      {
+        "label": "1. Entry",
+        "note": "6 \u2192 11. #19 slides to the short corner; #99 flashes into the middle.",
+        "own": {
+          "6": [
+            7.5,
+            9.7
+          ],
+          "11": [
+            13.5,
+            6.4
+          ],
+          "19": [
+            9.6,
+            2.2
+          ],
+          "64": [
+            3.9,
+            1.3
+          ],
+          "99": [
+            4.8,
+            5.2
+          ]
+        },
+        "opponents": {
+          "a": [
+            4.3,
+            7
+          ],
+          "b": [
+            10.7,
+            7
+          ],
+          "c": [
+            2.8,
+            3.4
+          ],
+          "d": [
+            7.5,
+            2.7
+          ],
+          "e": [
+            12.1,
+            3.4
+          ]
+        },
+        "ball": {
+          "side": "own",
+          "player": "6"
+        },
+        "arrows": [
+          {
+            "kind": "pass",
+            "from": [
+              7.5,
+              9.7
+            ],
+            "to": [
+              13.5,
+              6.4
+            ]
+          },
+          {
+            "kind": "move",
+            "from": [
+              9.6,
+              2.2
+            ],
+            "to": [
+              11.2,
+              1.2
+            ]
+          },
+          {
+            "kind": "move",
+            "from": [
+              4.8,
+              5.2
+            ],
+            "to": [
+              7.5,
+              5.3
+            ]
+          }
+        ],
+        "screens": []
+      },
+      {
+        "label": "2. Short corner",
+        "note": "11 \u2192 19. On that catch, #99 dives to the right block and #11 slides to the corner.",
+        "own": {
+          "6": [
+            7.5,
+            9.7
+          ],
+          "11": [
+            13.5,
+            6.4
+          ],
+          "19": [
+            11.2,
+            1.2
+          ],
+          "64": [
+            3.9,
+            1.3
+          ],
+          "99": [
+            7.5,
+            5.3
+          ]
+        },
+        "opponents": {
+          "a": [
+            4.3,
+            7
+          ],
+          "b": [
+            12,
+            6.2
+          ],
+          "c": [
+            2.8,
+            3.4
+          ],
+          "d": [
+            7.5,
+            2.7
+          ],
+          "e": [
+            12.1,
+            3.4
+          ]
+        },
+        "ball": {
+          "side": "own",
+          "player": "11"
+        },
+        "arrows": [
+          {
+            "kind": "pass",
+            "from": [
+              13.5,
+              6.4
+            ],
+            "to": [
+              11.2,
+              1.2
+            ]
+          },
+          {
+            "kind": "move",
+            "from": [
+              7.5,
+              5.3
+            ],
+            "to": [
+              9.1,
+              2.1
+            ]
+          },
+          {
+            "kind": "move",
+            "from": [
+              13.5,
+              6.4
+            ],
+            "to": [
+              14,
+              0.9
+            ]
+          }
+        ],
+        "screens": []
+      },
+      {
+        "label": "3. #99 dives",
+        "note": "If the centre moves toward #19, hit #99 underneath. #64 stays on the weak side.",
+        "own": {
+          "6": [
+            7.5,
+            9.7
+          ],
+          "11": [
+            14,
+            0.9
+          ],
+          "19": [
+            11.2,
+            1.2
+          ],
+          "64": [
+            3.9,
+            1.3
+          ],
+          "99": [
+            9.1,
+            2.1
+          ]
+        },
+        "opponents": {
+          "a": [
+            4.3,
+            7
+          ],
+          "b": [
+            12,
+            6.2
+          ],
+          "c": [
+            2.8,
+            3.4
+          ],
+          "d": [
+            10.4,
+            2.9
+          ],
+          "e": [
+            13.1,
+            2.4
+          ]
+        },
+        "ball": {
+          "side": "own",
+          "player": "19"
+        },
+        "arrows": [
+          {
+            "kind": "pass",
+            "from": [
+              11.2,
+              1.2
+            ],
+            "to": [
+              9.1,
+              2.1
+            ]
+          }
+        ],
+        "screens": []
+      },
+      {
+        "label": "#11 kick-out",
+        "note": "If the low defender protects #99\u2019s dive, #19 passes back out to #11 in the corner.",
+        "own": {
+          "6": [
+            7.5,
+            9.7
+          ],
+          "11": [
+            14,
+            0.9
+          ],
+          "19": [
+            11.2,
+            1.2
+          ],
+          "64": [
+            3.9,
+            1.3
+          ],
+          "99": [
+            9.1,
+            2.1
+          ]
+        },
+        "opponents": {
+          "a": [
+            4.3,
+            7
+          ],
+          "b": [
+            12,
+            6.2
+          ],
+          "c": [
+            2.8,
+            3.4
+          ],
+          "d": [
+            8,
+            2.7
+          ],
+          "e": [
+            11,
+            2.8
+          ]
+        },
+        "ball": {
+          "side": "own",
+          "player": "19"
+        },
+        "arrows": [
+          {
+            "kind": "pass",
+            "from": [
+              11.2,
+              1.2
+            ],
+            "to": [
+              14,
+              0.9
+            ]
+          }
+        ],
+        "screens": []
+      }
+    ],
+    "updatedAt": "2026-10-14T00:20:57.746Z"
+  },
+  {
+    "id": "defence-starting-shape",
+    "title": "Starting shape",
+    "category": "defence",
+    "summary": "#6 pressures the top; #11 guards the high-post lane. #19 protects the middle; #99 and #64 cover the low sides.",
+    "notes": "These are proposed 2\u20133 assignments based on the roles described, not a reconstruction of a game possession. Mirror on the other side. Keep #19 central only if he is your strongest interior defender. Move on the pass and communicate before handing off the ball.",
+    "tags": [
+      "2\u20133 zone",
+      "Rotation"
+    ],
+    "version": 0,
+    "builtin": true,
+    "source": "https://www.coachesclipboard.net/23zonedefense.html",
+    "frames": [
+      {
+        "label": "Movement",
+        "note": "#6 pressures the top; #11 guards the high-post lane. #19 protects the middle; #99 and #64 cover the low sides.",
+        "own": {
+          "6": [
+            7,
+            8.2
+          ],
+          "11": [
+            10,
+            6.9
+          ],
+          "19": [
+            7.5,
+            2.6
+          ],
+          "64": [
+            3.7,
+            3.5
+          ],
+          "99": [
+            11.3,
+            3.5
+          ]
+        },
+        "opponents": {
+          "a": [
+            7.5,
+            9.7
+          ],
+          "b": [
+            13.7,
+            6.4
+          ],
+          "c": [
+            1.3,
+            6.4
+          ],
+          "d": [
+            11.3,
+            1
+          ],
+          "e": [
+            7.5,
+            5.4
+          ]
+        },
+        "ball": {
+          "side": "opponents",
+          "player": "a"
+        },
+        "arrows": [],
+        "screens": []
+      },
+      {
+        "label": "Positions",
+        "note": "#6 pressures the top; #11 guards the high-post lane. #19 protects the middle; #99 and #64 cover the low sides.",
+        "own": {
+          "6": [
+            7,
+            8.2
+          ],
+          "11": [
+            10,
+            6.9
+          ],
+          "19": [
+            7.5,
+            2.6
+          ],
+          "64": [
+            3.7,
+            3.5
+          ],
+          "99": [
+            11.3,
+            3.5
+          ]
+        },
+        "opponents": {
+          "a": [
+            7.5,
+            9.7
+          ],
+          "b": [
+            13.7,
+            6.4
+          ],
+          "c": [
+            1.3,
+            6.4
+          ],
+          "d": [
+            11.3,
+            1
+          ],
+          "e": [
+            7.5,
+            5.4
+          ]
+        },
+        "ball": {
+          "side": "opponents",
+          "player": "a"
+        },
+        "arrows": [],
+        "screens": []
+      }
+    ]
+  },
+  {
+    "id": "defence-right-wing-pass",
+    "title": "Right-wing pass",
+    "category": "defence",
+    "summary": "#11 takes the wing; #6 denies the middle. #99 drops toward the block; #64 tucks into weak-side help; #19 shifts across.",
+    "notes": "These are proposed 2\u20133 assignments based on the roles described, not a reconstruction of a game possession. Mirror on the other side. Keep #19 central only if he is your strongest interior defender. Move on the pass and communicate before handing off the ball.",
+    "tags": [
+      "2\u20133 zone",
+      "Rotation"
+    ],
+    "version": 0,
+    "builtin": true,
+    "source": "https://www.coachesclipboard.net/23zonedefense.html",
+    "frames": [
+      {
+        "label": "Movement",
+        "note": "#11 takes the wing; #6 denies the middle. #99 drops toward the block; #64 tucks into weak-side help; #19 shifts across.",
+        "own": {
+          "6": [
+            7,
+            8.2
+          ],
+          "11": [
+            10,
+            6.9
+          ],
+          "19": [
+            7.5,
+            2.6
+          ],
+          "64": [
+            3.7,
+            3.5
+          ],
+          "99": [
+            11.3,
+            3.5
+          ]
+        },
+        "opponents": {
+          "a": [
+            7.5,
+            9.7
+          ],
+          "b": [
+            13.7,
+            6.4
+          ],
+          "c": [
+            1.3,
+            6.4
+          ],
+          "d": [
+            11.3,
+            1
+          ],
+          "e": [
+            7.5,
+            5.4
+          ]
+        },
+        "ball": {
+          "side": "opponents",
+          "player": "a"
+        },
+        "arrows": [
+          {
+            "kind": "move",
+            "from": [
+              7,
+              8.2
+            ],
+            "to": [
+              7.6,
+              6.6
+            ]
+          },
+          {
+            "kind": "move",
+            "from": [
+              10,
+              6.9
+            ],
+            "to": [
+              12.2,
+              6.4
+            ]
+          },
+          {
+            "kind": "move",
+            "from": [
+              7.5,
+              2.6
+            ],
+            "to": [
+              8.6,
+              2.3
+            ]
+          },
+          {
+            "kind": "move",
+            "from": [
+              3.7,
+              3.5
+            ],
+            "to": [
+              5.9,
+              2.5
+            ]
+          },
+          {
+            "kind": "move",
+            "from": [
+              11.3,
+              3.5
+            ],
+            "to": [
+              10.8,
+              3
+            ]
+          },
+          {
+            "kind": "pass",
+            "from": [
+              7.5,
+              9.7
+            ],
+            "to": [
+              13.7,
+              6.4
+            ]
+          }
+        ],
+        "screens": []
+      },
+      {
+        "label": "Positions",
+        "note": "#11 takes the wing; #6 denies the middle. #99 drops toward the block; #64 tucks into weak-side help; #19 shifts across.",
+        "own": {
+          "6": [
+            7.6,
+            6.6
+          ],
+          "11": [
+            12.2,
+            6.4
+          ],
+          "19": [
+            8.6,
+            2.3
+          ],
+          "64": [
+            5.9,
+            2.5
+          ],
+          "99": [
+            10.8,
+            3
+          ]
+        },
+        "opponents": {
+          "a": [
+            7.5,
+            9.7
+          ],
+          "b": [
+            13.7,
+            6.4
+          ],
+          "c": [
+            1.3,
+            6.4
+          ],
+          "d": [
+            11.3,
+            1
+          ],
+          "e": [
+            7.5,
+            5.4
+          ]
+        },
+        "ball": {
+          "side": "opponents",
+          "player": "b"
+        },
+        "arrows": [],
+        "screens": []
+      }
+    ]
+  },
+  {
+    "id": "defence-right-corner-pass",
+    "title": "Right-corner pass",
+    "category": "defence",
+    "summary": "#99 takes the corner; #19 covers the right block. #64 protects behind him; #6 covers the elbow; #11 denies the return pass.",
+    "notes": "These are proposed 2\u20133 assignments based on the roles described, not a reconstruction of a game possession. Mirror on the other side. Keep #19 central only if he is your strongest interior defender. Move on the pass and communicate before handing off the ball.",
+    "tags": [
+      "2\u20133 zone",
+      "Rotation"
+    ],
+    "version": 0,
+    "builtin": true,
+    "source": "https://www.coachesclipboard.net/23zonedefense.html",
+    "frames": [
+      {
+        "label": "Movement",
+        "note": "#99 takes the corner; #19 covers the right block. #64 protects behind him; #6 covers the elbow; #11 denies the return pass.",
+        "own": {
+          "6": [
+            7.6,
+            6.6
+          ],
+          "11": [
+            12.2,
+            6.4
+          ],
+          "19": [
+            8.6,
+            2.3
+          ],
+          "64": [
+            5.9,
+            2.5
+          ],
+          "99": [
+            10.8,
+            3
+          ]
+        },
+        "opponents": {
+          "a": [
+            7.5,
+            9.7
+          ],
+          "b": [
+            13.7,
+            6.4
+          ],
+          "c": [
+            1.3,
+            6.4
+          ],
+          "d": [
+            11.3,
+            1
+          ],
+          "e": [
+            7.5,
+            5.4
+          ]
+        },
+        "ball": {
+          "side": "opponents",
+          "player": "b"
+        },
+        "arrows": [
+          {
+            "kind": "move",
+            "from": [
+              7.6,
+              6.6
+            ],
+            "to": [
+              8.8,
+              6.4
+            ]
+          },
+          {
+            "kind": "move",
+            "from": [
+              12.2,
+              6.4
+            ],
+            "to": [
+              11.6,
+              5.6
+            ]
+          },
+          {
+            "kind": "move",
+            "from": [
+              8.6,
+              2.3
+            ],
+            "to": [
+              9.4,
+              1.8
+            ]
+          },
+          {
+            "kind": "move",
+            "from": [
+              5.9,
+              2.5
+            ],
+            "to": [
+              6.1,
+              2.1
+            ]
+          },
+          {
+            "kind": "move",
+            "from": [
+              10.8,
+              3
+            ],
+            "to": [
+              12.5,
+              1.2
+            ]
+          },
+          {
+            "kind": "pass",
+            "from": [
+              13.7,
+              6.4
+            ],
+            "to": [
+              13.9,
+              0.9
+            ]
+          }
+        ],
+        "screens": []
+      },
+      {
+        "label": "Positions",
+        "note": "#99 takes the corner; #19 covers the right block. #64 protects behind him; #6 covers the elbow; #11 denies the return pass.",
+        "own": {
+          "6": [
+            8.8,
+            6.4
+          ],
+          "11": [
+            11.6,
+            5.6
+          ],
+          "19": [
+            9.4,
+            1.8
+          ],
+          "64": [
+            6.1,
+            2.1
+          ],
+          "99": [
+            12.5,
+            1.2
+          ]
+        },
+        "opponents": {
+          "a": [
+            7.5,
+            9.7
+          ],
+          "b": [
+            13.9,
+            0.9
+          ],
+          "c": [
+            1.3,
+            6.4
+          ],
+          "d": [
+            7.5,
+            0.4
+          ],
+          "e": [
+            7.5,
+            5.4
+          ]
+        },
+        "ball": {
+          "side": "opponents",
+          "player": "b"
+        },
+        "arrows": [],
+        "screens": []
+      }
+    ]
+  },
+  {
+    "id": "defence-high-post-catch",
+    "title": "High-post catch",
+    "category": "defence",
+    "summary": "#19 closes to the high post; #99 and #64 squeeze behind him to cover the rim and cutters. #6 and #11 recover to shooters.",
+    "notes": "These are proposed 2\u20133 assignments based on the roles described, not a reconstruction of a game possession. Mirror on the other side. Keep #19 central only if he is your strongest interior defender. Move on the pass and communicate before handing off the ball.",
+    "tags": [
+      "2\u20133 zone",
+      "Rotation"
+    ],
+    "version": 0,
+    "builtin": true,
+    "source": "https://www.coachesclipboard.net/23zonedefense.html",
+    "frames": [
+      {
+        "label": "Movement",
+        "note": "#19 closes to the high post; #99 and #64 squeeze behind him to cover the rim and cutters. #6 and #11 recover to shooters.",
+        "own": {
+          "6": [
+            7.6,
+            6.6
+          ],
+          "11": [
+            12.2,
+            6.4
+          ],
+          "19": [
+            8.6,
+            2.3
+          ],
+          "64": [
+            5.9,
+            2.5
+          ],
+          "99": [
+            10.8,
+            3
+          ]
+        },
+        "opponents": {
+          "a": [
+            7.5,
+            9.7
+          ],
+          "b": [
+            13.7,
+            6.4
+          ],
+          "c": [
+            1.3,
+            6.4
+          ],
+          "d": [
+            9.6,
+            0.5
+          ],
+          "e": [
+            7.5,
+            5.4
+          ]
+        },
+        "ball": {
+          "side": "opponents",
+          "player": "b"
+        },
+        "arrows": [
+          {
+            "kind": "move",
+            "from": [
+              7.6,
+              6.6
+            ],
+            "to": [
+              5.3,
+              6.9
+            ]
+          },
+          {
+            "kind": "move",
+            "from": [
+              12.2,
+              6.4
+            ],
+            "to": [
+              10.2,
+              6.9
+            ]
+          },
+          {
+            "kind": "move",
+            "from": [
+              8.6,
+              2.3
+            ],
+            "to": [
+              7.5,
+              4
+            ]
+          },
+          {
+            "kind": "move",
+            "from": [
+              5.9,
+              2.5
+            ],
+            "to": [
+              5.7,
+              1.6
+            ]
+          },
+          {
+            "kind": "move",
+            "from": [
+              10.8,
+              3
+            ],
+            "to": [
+              9,
+              1.8
+            ]
+          },
+          {
+            "kind": "pass",
+            "from": [
+              13.7,
+              6.4
+            ],
+            "to": [
+              7.5,
+              5.4
+            ]
+          }
+        ],
+        "screens": []
+      },
+      {
+        "label": "Positions",
+        "note": "#19 closes to the high post; #99 and #64 squeeze behind him to cover the rim and cutters. #6 and #11 recover to shooters.",
+        "own": {
+          "6": [
+            5.3,
+            6.9
+          ],
+          "11": [
+            10.2,
+            6.9
+          ],
+          "19": [
+            7.5,
+            4
+          ],
+          "64": [
+            5.7,
+            1.6
+          ],
+          "99": [
+            9,
+            1.8
+          ]
+        },
+        "opponents": {
+          "a": [
+            7.5,
+            9.7
+          ],
+          "b": [
+            13.7,
+            6.4
+          ],
+          "c": [
+            1.3,
+            6.4
+          ],
+          "d": [
+            9.6,
+            0.5
+          ],
+          "e": [
+            7.5,
+            5.4
+          ]
+        },
+        "ball": {
+          "side": "opponents",
+          "player": "e"
+        },
+        "arrows": [],
+        "screens": []
+      }
+    ]
+  },
+  {
+    "id": "defence-baseline-drive",
+    "title": "Baseline drive",
+    "category": "defence",
+    "summary": "If #99 is beaten, #19 stops the baseline drive; #64 takes the player at the rim. #99 recovers; the guards cover the kick-outs.",
+    "notes": "These are proposed 2\u20133 assignments based on the roles described, not a reconstruction of a game possession. Mirror on the other side. Keep #19 central only if he is your strongest interior defender. Move on the pass and communicate before handing off the ball.",
+    "tags": [
+      "2\u20133 zone",
+      "Rotation"
+    ],
+    "version": 0,
+    "builtin": true,
+    "source": "https://www.coachesclipboard.net/23zonedefense.html",
+    "frames": [
+      {
+        "label": "Movement",
+        "note": "If #99 is beaten, #19 stops the baseline drive; #64 takes the player at the rim. #99 recovers; the guards cover the kick-outs.",
+        "own": {
+          "6": [
+            8.8,
+            6.4
+          ],
+          "11": [
+            11.6,
+            5.6
+          ],
+          "19": [
+            9.4,
+            1.8
+          ],
+          "64": [
+            6.1,
+            2.1
+          ],
+          "99": [
+            12.5,
+            1.2
+          ]
+        },
+        "opponents": {
+          "a": [
+            7.5,
+            9.7
+          ],
+          "b": [
+            13.9,
+            0.9
+          ],
+          "c": [
+            1.3,
+            6.4
+          ],
+          "d": [
+            7.5,
+            0.4
+          ],
+          "e": [
+            7.5,
+            5.4
+          ]
+        },
+        "ball": {
+          "side": "opponents",
+          "player": "b"
+        },
+        "arrows": [
+          {
+            "kind": "move",
+            "from": [
+              8.8,
+              6.4
+            ],
+            "to": [
+              7.3,
+              6.9
+            ]
+          },
+          {
+            "kind": "move",
+            "from": [
+              11.6,
+              5.6
+            ],
+            "to": [
+              11.2,
+              5.7
+            ]
+          },
+          {
+            "kind": "move",
+            "from": [
+              9.4,
+              1.8
+            ],
+            "to": [
+              10,
+              1.9
+            ]
+          },
+          {
+            "kind": "move",
+            "from": [
+              6.1,
+              2.1
+            ],
+            "to": [
+              7.5,
+              1.8
+            ]
+          },
+          {
+            "kind": "move",
+            "from": [
+              12.5,
+              1.2
+            ],
+            "to": [
+              12.9,
+              2.8
+            ]
+          },
+          {
+            "kind": "dribble",
+            "from": [
+              13.9,
+              0.9
+            ],
+            "to": [
+              11.3,
+              1.3
+            ]
+          }
+        ],
+        "screens": []
+      },
+      {
+        "label": "Positions",
+        "note": "If #99 is beaten, #19 stops the baseline drive; #64 takes the player at the rim. #99 recovers; the guards cover the kick-outs.",
+        "own": {
+          "6": [
+            7.3,
+            6.9
+          ],
+          "11": [
+            11.2,
+            5.7
+          ],
+          "19": [
+            10,
+            1.9
+          ],
+          "64": [
+            7.5,
+            1.8
+          ],
+          "99": [
+            12.9,
+            2.8
+          ]
+        },
+        "opponents": {
+          "a": [
+            7.5,
+            9.7
+          ],
+          "b": [
+            11.3,
+            1.3
+          ],
+          "c": [
+            1.3,
+            6.4
+          ],
+          "d": [
+            7.5,
+            0.4
+          ],
+          "e": [
+            7.5,
+            5.4
+          ]
+        },
+        "ball": {
+          "side": "opponents",
+          "player": "b"
+        },
+        "arrows": [],
+        "screens": []
+      }
+    ]
+  },
+  {
+    "id": "defence-middle-drive",
+    "title": "Middle drive",
+    "category": "defence",
+    "summary": "If the front is split, #19 stops the driver; #99 and #64 protect behind him. #6 recovers and #11 holds the wing passing lane.",
+    "notes": "These are proposed 2\u20133 assignments based on the roles described, not a reconstruction of a game possession. Mirror on the other side. Keep #19 central only if he is your strongest interior defender. Move on the pass and communicate before handing off the ball.",
+    "tags": [
+      "2\u20133 zone",
+      "Rotation"
+    ],
+    "version": 0,
+    "builtin": true,
+    "source": "https://www.coachesclipboard.net/23zonedefense.html",
+    "frames": [
+      {
+        "label": "Movement",
+        "note": "If the front is split, #19 stops the driver; #99 and #64 protect behind him. #6 recovers and #11 holds the wing passing lane.",
+        "own": {
+          "6": [
+            7,
+            8.2
+          ],
+          "11": [
+            10,
+            6.9
+          ],
+          "19": [
+            7.5,
+            2.6
+          ],
+          "64": [
+            3.7,
+            3.5
+          ],
+          "99": [
+            11.3,
+            3.5
+          ]
+        },
+        "opponents": {
+          "a": [
+            7.5,
+            9.7
+          ],
+          "b": [
+            13.7,
+            6.4
+          ],
+          "c": [
+            1.3,
+            6.4
+          ],
+          "d": [
+            11.3,
+            1
+          ],
+          "e": [
+            7.5,
+            5.4
+          ]
+        },
+        "ball": {
+          "side": "opponents",
+          "player": "a"
+        },
+        "arrows": [
+          {
+            "kind": "move",
+            "from": [
+              7,
+              8.2
+            ],
+            "to": [
+              6.7,
+              7.3
+            ]
+          },
+          {
+            "kind": "move",
+            "from": [
+              10,
+              6.9
+            ],
+            "to": [
+              10.8,
+              6.5
+            ]
+          },
+          {
+            "kind": "move",
+            "from": [
+              7.5,
+              2.6
+            ],
+            "to": [
+              8.2,
+              4.1
+            ]
+          },
+          {
+            "kind": "move",
+            "from": [
+              3.7,
+              3.5
+            ],
+            "to": [
+              6.2,
+              1.8
+            ]
+          },
+          {
+            "kind": "move",
+            "from": [
+              11.3,
+              3.5
+            ],
+            "to": [
+              9.5,
+              1.8
+            ]
+          },
+          {
+            "kind": "dribble",
+            "from": [
+              7.5,
+              9.7
+            ],
+            "to": [
+              8.4,
+              5.5
+            ]
+          }
+        ],
+        "screens": []
+      },
+      {
+        "label": "Positions",
+        "note": "If the front is split, #19 stops the driver; #99 and #64 protect behind him. #6 recovers and #11 holds the wing passing lane.",
+        "own": {
+          "6": [
+            6.7,
+            7.3
+          ],
+          "11": [
+            10.8,
+            6.5
+          ],
+          "19": [
+            8.2,
+            4.1
+          ],
+          "64": [
+            6.2,
+            1.8
+          ],
+          "99": [
+            9.5,
+            1.8
+          ]
+        },
+        "opponents": {
+          "a": [
+            8.4,
+            5.5
+          ],
+          "b": [
+            13.7,
+            6.4
+          ],
+          "c": [
+            1.3,
+            6.4
+          ],
+          "d": [
+            11.3,
+            1
+          ],
+          "e": [
+            5.1,
+            5
+          ]
+        },
+        "ball": {
+          "side": "opponents",
+          "player": "a"
+        },
+        "arrows": [],
+        "screens": []
+      }
+    ]
+  },
+  {
+    "id": "defence-skip-first-closeout",
+    "title": "Skip: first closeout",
+    "category": "defence",
+    "summary": "#64 closes to the left wing first because he can arrive sooner. #6 moves across to take over; everyone else shifts left.",
+    "notes": "These are proposed 2\u20133 assignments based on the roles described, not a reconstruction of a game possession. Mirror on the other side. Keep #19 central only if he is your strongest interior defender. Move on the pass and communicate before handing off the ball.",
+    "tags": [
+      "2\u20133 zone",
+      "Rotation"
+    ],
+    "version": 0,
+    "builtin": true,
+    "source": "https://www.coachesclipboard.net/23zonedefense.html",
+    "frames": [
+      {
+        "label": "Movement",
+        "note": "#64 closes to the left wing first because he can arrive sooner. #6 moves across to take over; everyone else shifts left.",
+        "own": {
+          "6": [
+            7.6,
+            6.6
+          ],
+          "11": [
+            12.2,
+            6.4
+          ],
+          "19": [
+            8.6,
+            2.3
+          ],
+          "64": [
+            5.9,
+            2.5
+          ],
+          "99": [
+            10.8,
+            3
+          ]
+        },
+        "opponents": {
+          "a": [
+            7.5,
+            9.7
+          ],
+          "b": [
+            13.7,
+            6.4
+          ],
+          "c": [
+            1.3,
+            6.4
+          ],
+          "d": [
+            11.3,
+            1
+          ],
+          "e": [
+            7.5,
+            5.4
+          ]
+        },
+        "ball": {
+          "side": "opponents",
+          "player": "b"
+        },
+        "arrows": [
+          {
+            "kind": "move",
+            "from": [
+              7.6,
+              6.6
+            ],
+            "to": [
+              4.7,
+              6.8
+            ]
+          },
+          {
+            "kind": "move",
+            "from": [
+              12.2,
+              6.4
+            ],
+            "to": [
+              8,
+              6.7
+            ]
+          },
+          {
+            "kind": "move",
+            "from": [
+              8.6,
+              2.3
+            ],
+            "to": [
+              6.8,
+              2.5
+            ]
+          },
+          {
+            "kind": "move",
+            "from": [
+              5.9,
+              2.5
+            ],
+            "to": [
+              2.8,
+              5.8
+            ]
+          },
+          {
+            "kind": "move",
+            "from": [
+              10.8,
+              3
+            ],
+            "to": [
+              9,
+              2.6
+            ]
+          },
+          {
+            "kind": "pass",
+            "from": [
+              13.7,
+              6.4
+            ],
+            "to": [
+              1.3,
+              6.4
+            ]
+          }
+        ],
+        "screens": []
+      },
+      {
+        "label": "Positions",
+        "note": "#64 closes to the left wing first because he can arrive sooner. #6 moves across to take over; everyone else shifts left.",
+        "own": {
+          "6": [
+            4.7,
+            6.8
+          ],
+          "11": [
+            8,
+            6.7
+          ],
+          "19": [
+            6.8,
+            2.5
+          ],
+          "64": [
+            2.8,
+            5.8
+          ],
+          "99": [
+            9,
+            2.6
+          ]
+        },
+        "opponents": {
+          "a": [
+            7.5,
+            9.7
+          ],
+          "b": [
+            13.7,
+            6.4
+          ],
+          "c": [
+            1.3,
+            6.4
+          ],
+          "d": [
+            11.3,
+            1
+          ],
+          "e": [
+            7.5,
+            5.4
+          ]
+        },
+        "ball": {
+          "side": "opponents",
+          "player": "c"
+        },
+        "arrows": [],
+        "screens": []
+      }
+    ]
+  },
+  {
+    "id": "defence-skip-handover",
+    "title": "Skip: handover",
+    "category": "defence",
+    "summary": "#6 calls \u201cI\u2019ve got ball\u201d; only then does #64 return low. #11 denies the high post; #19 and #99 cover the paint.",
+    "notes": "These are proposed 2\u20133 assignments based on the roles described, not a reconstruction of a game possession. Mirror on the other side. Keep #19 central only if he is your strongest interior defender. Move on the pass and communicate before handing off the ball.",
+    "tags": [
+      "2\u20133 zone",
+      "Rotation"
+    ],
+    "version": 0,
+    "builtin": true,
+    "source": "https://www.coachesclipboard.net/23zonedefense.html",
+    "frames": [
+      {
+        "label": "Movement",
+        "note": "#6 calls \u201cI\u2019ve got ball\u201d; only then does #64 return low. #11 denies the high post; #19 and #99 cover the paint.",
+        "own": {
+          "6": [
+            4.7,
+            6.8
+          ],
+          "11": [
+            8,
+            6.7
+          ],
+          "19": [
+            6.8,
+            2.5
+          ],
+          "64": [
+            2.8,
+            5.8
+          ],
+          "99": [
+            9,
+            2.6
+          ]
+        },
+        "opponents": {
+          "a": [
+            7.5,
+            9.7
+          ],
+          "b": [
+            13.7,
+            6.4
+          ],
+          "c": [
+            1.3,
+            6.4
+          ],
+          "d": [
+            11.3,
+            1
+          ],
+          "e": [
+            7.5,
+            5.4
+          ]
+        },
+        "ball": {
+          "side": "opponents",
+          "player": "c"
+        },
+        "arrows": [
+          {
+            "kind": "move",
+            "from": [
+              4.7,
+              6.8
+            ],
+            "to": [
+              2.8,
+              6.4
+            ]
+          },
+          {
+            "kind": "move",
+            "from": [
+              8,
+              6.7
+            ],
+            "to": [
+              7.4,
+              6.6
+            ]
+          },
+          {
+            "kind": "move",
+            "from": [
+              6.8,
+              2.5
+            ],
+            "to": [
+              6.8,
+              2.1
+            ]
+          },
+          {
+            "kind": "move",
+            "from": [
+              2.8,
+              5.8
+            ],
+            "to": [
+              4.2,
+              3
+            ]
+          },
+          {
+            "kind": "move",
+            "from": [
+              9,
+              2.6
+            ],
+            "to": [
+              9,
+              2.4
+            ]
+          }
+        ],
+        "screens": []
+      },
+      {
+        "label": "Positions",
+        "note": "#6 calls \u201cI\u2019ve got ball\u201d; only then does #64 return low. #11 denies the high post; #19 and #99 cover the paint.",
+        "own": {
+          "6": [
+            2.8,
+            6.4
+          ],
+          "11": [
+            7.4,
+            6.6
+          ],
+          "19": [
+            6.8,
+            2.1
+          ],
+          "64": [
+            4.2,
+            3
+          ],
+          "99": [
+            9,
+            2.4
+          ]
+        },
+        "opponents": {
+          "a": [
+            7.5,
+            9.7
+          ],
+          "b": [
+            13.7,
+            6.4
+          ],
+          "c": [
+            1.3,
+            6.4
+          ],
+          "d": [
+            11.3,
+            1
+          ],
+          "e": [
+            7.5,
+            5.4
+          ]
+        },
+        "ball": {
+          "side": "opponents",
+          "player": "c"
+        },
+        "arrows": [],
+        "screens": []
+      }
+    ]
+  },
+  {
+    "id": "defence-corner-shot-box-outs",
+    "title": "Corner-shot box-outs",
+    "category": "defence",
+    "summary": "#99 boxes out the shooter; #19, #64 and #6 find inside opponents. #11 covers long rebounds. No early leak-out.",
+    "notes": "Find a player before chasing the ball. #99 blocks out the shooter; the inside players establish rebounding position. Stay until the rebound is secured.",
+    "tags": [
+      "2\u20133 zone",
+      "Box out"
+    ],
+    "version": 0,
+    "builtin": true,
+    "source": "https://www.coachesclipboard.net/ZoneRebounding.html",
+    "frames": [
+      {
+        "label": "Movement",
+        "note": "#99 boxes out the shooter; #19, #64 and #6 find inside opponents. #11 covers long rebounds. No early leak-out.",
+        "own": {
+          "6": [
+            8.8,
+            6.4
+          ],
+          "11": [
+            11.6,
+            5.6
+          ],
+          "19": [
+            9.4,
+            1.8
+          ],
+          "64": [
+            6.1,
+            2.1
+          ],
+          "99": [
+            12.5,
+            1.2
+          ]
+        },
+        "opponents": {
+          "a": [
+            7.5,
+            9.7
+          ],
+          "b": [
+            13.9,
+            0.9
+          ],
+          "c": [
+            5.3,
+            0.8
+          ],
+          "d": [
+            9.5,
+            0.4
+          ],
+          "e": [
+            7.5,
+            6
+          ]
+        },
+        "ball": {
+          "side": "opponents",
+          "player": "b"
+        },
+        "arrows": [
+          {
+            "kind": "move",
+            "from": [
+              8.8,
+              6.4
+            ],
+            "to": [
+              7.6,
+              4.2
+            ]
+          },
+          {
+            "kind": "move",
+            "from": [
+              11.6,
+              5.6
+            ],
+            "to": [
+              10.6,
+              5.5
+            ]
+          },
+          {
+            "kind": "move",
+            "from": [
+              9.4,
+              1.8
+            ],
+            "to": [
+              9.3,
+              2
+            ]
+          },
+          {
+            "kind": "move",
+            "from": [
+              6.1,
+              2.1
+            ],
+            "to": [
+              6.2,
+              2.1
+            ]
+          },
+          {
+            "kind": "pass",
+            "from": [
+              13.9,
+              0.9
+            ],
+            "to": [
+              7.5,
+              1.575
+            ]
+          }
+        ],
+        "screens": []
+      },
+      {
+        "label": "Positions",
+        "note": "#99 boxes out the shooter; #19, #64 and #6 find inside opponents. #11 covers long rebounds. No early leak-out.",
+        "own": {
+          "6": [
+            7.6,
+            4.2
+          ],
+          "11": [
+            10.6,
+            5.5
+          ],
+          "19": [
+            9.3,
+            2
+          ],
+          "64": [
+            6.2,
+            2.1
+          ],
+          "99": [
+            12.5,
+            1.2
+          ]
+        },
+        "opponents": {
+          "a": [
+            7.5,
+            9.7
+          ],
+          "b": [
+            13.9,
+            0.9
+          ],
+          "c": [
+            5.3,
+            0.8
+          ],
+          "d": [
+            9.5,
+            0.4
+          ],
+          "e": [
+            7.5,
+            6
+          ]
+        },
+        "ball": {
+          "side": "opponents",
+          "player": "b"
+        },
+        "arrows": [],
+        "screens": []
+      }
+    ]
+  },
+  {
+    "id": "zone-dho-99",
+    "title": "DHO: #6 hands to #99",
+    "summary": "A simple perimeter handoff that gets #99 moving into a gap.",
+    "category": "offence",
+    "tags": [
+      "2\u20133 zone",
+      "Handoff"
+    ],
+    "frames": [
+      {
+        "label": "1. Bring the handoff",
+        "note": "#6 dribbles toward the left slot; #99 lifts from the wing to meet him.",
+        "own": {
+          "6": [
+            7.5,
+            9.7
+          ],
+          "11": [
+            13.5,
+            6.4
+          ],
+          "19": [
+            9.6,
+            1.7
+          ],
+          "64": [
+            3.6,
+            1.2
+          ],
+          "99": [
+            1.5,
+            6.4
+          ]
+        },
+        "opponents": {
+          "a": [
+            4.3,
+            7
+          ],
+          "b": [
+            10.7,
+            7
+          ],
+          "c": [
+            2.8,
+            3.4
+          ],
+          "d": [
+            7.5,
+            2.7
+          ],
+          "e": [
+            12.1,
+            3.4
+          ]
+        },
+        "ball": {
+          "side": "own",
+          "player": "6"
+        },
+        "arrows": [
+          {
+            "kind": "dribble",
+            "from": [
+              7.5,
+              9.7
+            ],
+            "to": [
+              5.5,
+              8.6
+            ]
+          },
+          {
+            "kind": "move",
+            "from": [
+              1.5,
+              6.4
+            ],
+            "to": [
+              3.9,
+              8.6
+            ],
+            "curve": [
+              2,
+              8.5
+            ]
+          }
+        ],
+        "screens": []
+      },
+      {
+        "label": "2. Handoff",
+        "note": "#6 gives the ball to #99 and becomes a stationary screen. Meet close; the player spacing here is schematic.",
+        "own": {
+          "6": [
+            5.5,
+            8.6
+          ],
+          "11": [
+            13.5,
+            6.4
+          ],
+          "19": [
+            9.6,
+            1.7
+          ],
+          "64": [
+            3.6,
+            1.2
+          ],
+          "99": [
+            3.9,
+            8.6
+          ]
+        },
+        "opponents": {
+          "a": [
+            4.5,
+            7.4
+          ],
+          "b": [
+            10.7,
+            7
+          ],
+          "c": [
+            2.8,
+            3.4
+          ],
+          "d": [
+            7.5,
+            2.7
+          ],
+          "e": [
+            12.1,
+            3.4
+          ]
+        },
+        "ball": {
+          "side": "own",
+          "player": "6"
+        },
+        "arrows": [
+          {
+            "kind": "pass",
+            "from": [
+              5.5,
+              8.6
+            ],
+            "to": [
+              3.9,
+              8.6
+            ]
+          }
+        ],
+        "screens": [
+          [
+            4.9,
+            7.95
+          ]
+        ]
+      },
+      {
+        "label": "3. Read the front guard",
+        "note": "#99 shoots if the zone stays low. If the guard steps up, attack the left gap; #6 replaces to the top.",
+        "own": {
+          "6": [
+            5.5,
+            8.6
+          ],
+          "11": [
+            13.5,
+            6.4
+          ],
+          "19": [
+            9.6,
+            1.7
+          ],
+          "64": [
+            3.6,
+            1.2
+          ],
+          "99": [
+            3.9,
+            8.6
+          ]
+        },
+        "opponents": {
+          "a": [
+            3.4,
+            7.4
+          ],
+          "b": [
+            10.7,
+            7
+          ],
+          "c": [
+            2.8,
+            3.4
+          ],
+          "d": [
+            7.5,
+            2.7
+          ],
+          "e": [
+            12.1,
+            3.4
+          ]
+        },
+        "ball": {
+          "side": "own",
+          "player": "99"
+        },
+        "arrows": [
+          {
+            "kind": "dribble",
+            "from": [
+              3.9,
+              8.6
+            ],
+            "to": [
+              4.9,
+              5.7
+            ],
+            "curve": [
+              2.8,
+              6.8
+            ]
+          },
+          {
+            "kind": "move",
+            "from": [
+              5.5,
+              8.6
+            ],
+            "to": [
+              7.5,
+              9.7
+            ]
+          }
+        ],
+        "screens": []
+      },
+      {
+        "label": "4. Help commits",
+        "note": "If the centre stops #99, find #19 behind him through an open passing lane. #11 holds the opposite wing.",
+        "own": {
+          "6": [
+            7.5,
+            9.7
+          ],
+          "11": [
+            13.5,
+            6.4
+          ],
+          "19": [
+            9.6,
+            1.7
+          ],
+          "64": [
+            3.6,
+            1.2
+          ],
+          "99": [
+            4.9,
+            5.7
+          ]
+        },
+        "opponents": {
+          "a": [
+            3.8,
+            7.5
+          ],
+          "b": [
+            10.7,
+            7
+          ],
+          "c": [
+            2.8,
+            3.4
+          ],
+          "d": [
+            4.9,
+            4.3
+          ],
+          "e": [
+            12.1,
+            3.4
+          ]
+        },
+        "ball": {
+          "side": "own",
+          "player": "99"
+        },
+        "arrows": [
+          {
+            "kind": "pass",
+            "from": [
+              4.9,
+              5.7
+            ],
+            "to": [
+              9.6,
+              1.7
+            ]
+          }
+        ],
+        "screens": []
+      }
+    ],
+    "notes": "AGAINST A 2\u20133 ZONE\nUse this when a top zone defender is willing to come out. #99 receives above the zone, then shoots if the defender stays back or attacks the gap if he closes. The handoff alone does not remove the low defenders; read the centre before continuing.\n\nAGAINST HALF-COURT MAN\n#99 comes tight off #6. If his defender trails, turn the corner; if the defender goes under and the shot is in range, shoot. On a switch, face up and read the matchup.\n\nAGAINST FULL-COURT MAN\nBeat pressure first. #6, #11 or #99 can advance the ball; offer a return pass. Take an open breakaway, otherwise organise this set in the frontcourt.\n\nTIMING / SPACING\nMake the transfer shoulder-to-shoulder. #6 stops before screening and keeps arms in. #19 stays behind the centre; #64 holds the short corner to keep the driving path open.",
+    "version": 1,
+    "builtin": false,
+    "source": "https://www.breakthroughbasketball.com/coaching/zoom-offense",
+    "updatedAt": "2026-10-14T00:19:48.710Z"
+  },
+  {
+    "id": "zone-zoom-99",
+    "title": "Zoom / Chicago: screen into handoff",
+    "summary": "Free #99 from the corner with #64\u2019s screen, then #11\u2019s handoff.",
+    "category": "offence",
+    "tags": [
+      "2\u20133 zone",
+      "Handoff",
+      "Baseline lift"
+    ],
+    "frames": [
+      {
+        "label": "1. Entry",
+        "note": "#6 passes to #11 at the right slot, then clears to the left slot.",
+        "own": {
+          "6": [
+            7.5,
+            9.7
+          ],
+          "11": [
+            10.7,
+            9.3
+          ],
+          "19": [
+            4.3,
+            1.4
+          ],
+          "64": [
+            12.9,
+            4.4
+          ],
+          "99": [
+            13.9,
+            0.9
+          ]
+        },
+        "opponents": {
+          "a": [
+            4.3,
+            7
+          ],
+          "b": [
+            10.7,
+            7
+          ],
+          "c": [
+            2.8,
+            3.4
+          ],
+          "d": [
+            7.5,
+            2.7
+          ],
+          "e": [
+            12.1,
+            3.4
+          ]
+        },
+        "ball": {
+          "side": "own",
+          "player": "6"
+        },
+        "arrows": [
+          {
+            "kind": "pass",
+            "from": [
+              7.5,
+              9.7
+            ],
+            "to": [
+              10.7,
+              9.3
+            ]
+          },
+          {
+            "kind": "move",
+            "from": [
+              7.5,
+              9.7
+            ],
+            "to": [
+              4.8,
+              9.3
+            ]
+          }
+        ],
+        "screens": []
+      },
+      {
+        "label": "2. Screen + lift",
+        "note": "#64 screens the low-right zone defender. #99 lifts from the corner as #11 brings the ball toward him.",
+        "own": {
+          "6": [
+            4.8,
+            9.3
+          ],
+          "11": [
+            10.7,
+            9.3
+          ],
+          "19": [
+            4.3,
+            1.4
+          ],
+          "64": [
+            12.9,
+            4.4
+          ],
+          "99": [
+            13.9,
+            0.9
+          ]
+        },
+        "opponents": {
+          "a": [
+            4.3,
+            7
+          ],
+          "b": [
+            10.7,
+            7
+          ],
+          "c": [
+            2.8,
+            3.4
+          ],
+          "d": [
+            7.5,
+            2.7
+          ],
+          "e": [
+            12.1,
+            3.4
+          ]
+        },
+        "ball": {
+          "side": "own",
+          "player": "11"
+        },
+        "arrows": [
+          {
+            "kind": "move",
+            "from": [
+              13.9,
+              0.9
+            ],
+            "to": [
+              12.3,
+              7.4
+            ],
+            "curve": [
+              14.6,
+              4.5
+            ]
+          },
+          {
+            "kind": "dribble",
+            "from": [
+              10.7,
+              9.3
+            ],
+            "to": [
+              10.7,
+              8
+            ]
+          }
+        ],
+        "screens": [
+          [
+            12.5,
+            3.85
+          ]
+        ]
+      },
+      {
+        "label": "3. Handoff",
+        "note": "#11 hands to #99. #64 clears inside after the screen; #19 holds the weak side.",
+        "own": {
+          "6": [
+            4.8,
+            9.3
+          ],
+          "11": [
+            10.7,
+            8
+          ],
+          "19": [
+            4.3,
+            1.4
+          ],
+          "64": [
+            12.9,
+            4.4
+          ],
+          "99": [
+            12.3,
+            7.4
+          ]
+        },
+        "opponents": {
+          "a": [
+            4.3,
+            7
+          ],
+          "b": [
+            11,
+            6.8
+          ],
+          "c": [
+            2.8,
+            3.4
+          ],
+          "d": [
+            7.5,
+            2.7
+          ],
+          "e": [
+            12.1,
+            3.4
+          ]
+        },
+        "ball": {
+          "side": "own",
+          "player": "11"
+        },
+        "arrows": [
+          {
+            "kind": "pass",
+            "from": [
+              10.7,
+              8
+            ],
+            "to": [
+              12.3,
+              7.4
+            ]
+          },
+          {
+            "kind": "move",
+            "from": [
+              12.9,
+              4.4
+            ],
+            "to": [
+              9.5,
+              2
+            ]
+          }
+        ],
+        "screens": [
+          [
+            11.5,
+            7.4
+          ]
+        ]
+      },
+      {
+        "label": "4. Turn the corner",
+        "note": "#99 reads the top guard: take the open shot or attack the gap. #11 clears to the right corner.",
+        "own": {
+          "6": [
+            4.8,
+            9.3
+          ],
+          "11": [
+            10.7,
+            8
+          ],
+          "19": [
+            6.3,
+            1.5
+          ],
+          "64": [
+            9.5,
+            2
+          ],
+          "99": [
+            12.3,
+            7.4
+          ]
+        },
+        "opponents": {
+          "a": [
+            4.3,
+            7
+          ],
+          "b": [
+            12.4,
+            6.1
+          ],
+          "c": [
+            2.8,
+            3.4
+          ],
+          "d": [
+            7.5,
+            2.7
+          ],
+          "e": [
+            12.1,
+            3.4
+          ]
+        },
+        "ball": {
+          "side": "own",
+          "player": "99"
+        },
+        "arrows": [
+          {
+            "kind": "dribble",
+            "from": [
+              12.3,
+              7.4
+            ],
+            "to": [
+              10.7,
+              5.3
+            ],
+            "curve": [
+              11.5,
+              6.3
+            ]
+          },
+          {
+            "kind": "move",
+            "from": [
+              10.7,
+              8
+            ],
+            "to": [
+              13.9,
+              0.9
+            ],
+            "curve": [
+              14.3,
+              5.2
+            ]
+          }
+        ],
+        "screens": []
+      },
+      {
+        "label": "5. Corner read",
+        "note": "If the low-right defender helps on #99, kick to #11 in the corner. #19 seals on the weak side.",
+        "own": {
+          "6": [
+            4.8,
+            9.3
+          ],
+          "11": [
+            13.9,
+            0.9
+          ],
+          "19": [
+            6.3,
+            1.5
+          ],
+          "64": [
+            9.5,
+            2
+          ],
+          "99": [
+            10.7,
+            5.3
+          ]
+        },
+        "opponents": {
+          "a": [
+            4.3,
+            7
+          ],
+          "b": [
+            12,
+            6.8
+          ],
+          "c": [
+            2.8,
+            3.4
+          ],
+          "d": [
+            9.3,
+            4
+          ],
+          "e": [
+            12.1,
+            4.8
+          ]
+        },
+        "ball": {
+          "side": "own",
+          "player": "99"
+        },
+        "arrows": [
+          {
+            "kind": "pass",
+            "from": [
+              10.7,
+              5.3
+            ],
+            "to": [
+              13.9,
+              0.9
+            ]
+          }
+        ],
+        "screens": []
+      }
+    ],
+    "notes": "AGAINST A 2\u20133 ZONE\nThe first screen delays the low defender; the handoff changes the angle of attack. #99 reads the next top defender, then the low defender. If the zone passes him off cleanly, use the open outside shot, corner pass or reversal instead of driving into three defenders.\n\nAGAINST HALF-COURT MAN\n#64 screens #99\u2019s own defender. #99 sets the defender up, comes tight off the screen and receives from #11 at speed. Overplay can create a backdoor cut if the lane is clear.\n\nAGAINST FULL-COURT MAN\nBeat pressure first. #6, #11 or #99 can advance the ball; offer a return pass. Take an open breakaway, otherwise organise this set in the frontcourt.\n\nTIMING / SPACING\n#64 sets before #99 arrives. #11 delivers the handoff as #99 exits the screen, then clears the corner. Keep #19 on the weak side until help commits.",
+    "version": 1,
+    "builtin": false,
+    "source": "https://www.breakthroughbasketball.com/offense/zoom-offense-ball-screens",
+    "updatedAt": "2026-10-14T00:19:55.395Z"
+  },
+  {
+    "id": "fake-handoff-99",
+    "title": "Fake handoff: #99 keeps",
+    "summary": "Use #6\u2019s handoff threat to open an inside driving lane for #99.",
+    "category": "offence",
+    "tags": [
+      "2\u20133 zone",
+      "Handoff counter"
+    ],
+    "frames": [
+      {
+        "label": "1. Entry",
+        "note": "#6 enters to #99 at the right slot; #11 spaces left and #19 stays inside on the weak side.",
+        "own": {
+          "6": [
+            7.5,
+            9.7
+          ],
+          "11": [
+            1.5,
+            6.4
+          ],
+          "19": [
+            5.8,
+            1.5
+          ],
+          "64": [
+            11.2,
+            1.4
+          ],
+          "99": [
+            10.7,
+            9
+          ]
+        },
+        "opponents": {
+          "a": [
+            4.3,
+            7
+          ],
+          "b": [
+            10.7,
+            7
+          ],
+          "c": [
+            2.8,
+            3.4
+          ],
+          "d": [
+            7.5,
+            2.7
+          ],
+          "e": [
+            12.1,
+            3.4
+          ]
+        },
+        "ball": {
+          "side": "own",
+          "player": "6"
+        },
+        "arrows": [
+          {
+            "kind": "pass",
+            "from": [
+              7.5,
+              9.7
+            ],
+            "to": [
+              10.7,
+              9
+            ]
+          }
+        ],
+        "screens": []
+      },
+      {
+        "label": "2. Show the handoff",
+        "note": "#6 runs toward #99 as if taking the ball. #99 keeps it only if the top defender commits toward #6.",
+        "own": {
+          "6": [
+            7.5,
+            9.7
+          ],
+          "11": [
+            1.5,
+            6.4
+          ],
+          "19": [
+            5.8,
+            1.5
+          ],
+          "64": [
+            11.2,
+            1.4
+          ],
+          "99": [
+            10.7,
+            9
+          ]
+        },
+        "opponents": {
+          "a": [
+            4.3,
+            7
+          ],
+          "b": [
+            11.3,
+            7.4
+          ],
+          "c": [
+            2.8,
+            3.4
+          ],
+          "d": [
+            7.5,
+            2.7
+          ],
+          "e": [
+            12.1,
+            3.4
+          ]
+        },
+        "ball": {
+          "side": "own",
+          "player": "99"
+        },
+        "arrows": [
+          {
+            "kind": "move",
+            "from": [
+              7.5,
+              9.7
+            ],
+            "to": [
+              12.3,
+              8.1
+            ]
+          }
+        ],
+        "screens": []
+      },
+      {
+        "label": "3. Keep + attack",
+        "note": "#99 keeps and attacks the inside gap. #6 continues to the right corner, clearing the lane.",
+        "own": {
+          "6": [
+            12.3,
+            8.1
+          ],
+          "11": [
+            1.5,
+            6.4
+          ],
+          "19": [
+            5.8,
+            1.5
+          ],
+          "64": [
+            11.2,
+            1.4
+          ],
+          "99": [
+            10.7,
+            9
+          ]
+        },
+        "opponents": {
+          "a": [
+            4.3,
+            7
+          ],
+          "b": [
+            12.1,
+            7.4
+          ],
+          "c": [
+            2.8,
+            3.4
+          ],
+          "d": [
+            7.5,
+            2.7
+          ],
+          "e": [
+            12.1,
+            3.4
+          ]
+        },
+        "ball": {
+          "side": "own",
+          "player": "99"
+        },
+        "arrows": [
+          {
+            "kind": "dribble",
+            "from": [
+              10.7,
+              9
+            ],
+            "to": [
+              8.4,
+              5.6
+            ],
+            "curve": [
+              9.3,
+              7.4
+            ]
+          },
+          {
+            "kind": "move",
+            "from": [
+              12.3,
+              8.1
+            ],
+            "to": [
+              13.9,
+              0.9
+            ],
+            "curve": [
+              14.5,
+              5
+            ]
+          }
+        ],
+        "screens": []
+      },
+      {
+        "label": "4. Read the centre",
+        "note": "If the centre steps up, #99 can feed #19 underneath. If the low-right defender helps, #6 is the corner outlet.",
+        "own": {
+          "6": [
+            13.9,
+            0.9
+          ],
+          "11": [
+            1.5,
+            6.4
+          ],
+          "19": [
+            5.8,
+            1.5
+          ],
+          "64": [
+            11.2,
+            1.4
+          ],
+          "99": [
+            8.4,
+            5.6
+          ]
+        },
+        "opponents": {
+          "a": [
+            4.3,
+            7
+          ],
+          "b": [
+            12.1,
+            7.4
+          ],
+          "c": [
+            2.8,
+            3.4
+          ],
+          "d": [
+            8.4,
+            4.2
+          ],
+          "e": [
+            12.1,
+            3.4
+          ]
+        },
+        "ball": {
+          "side": "own",
+          "player": "99"
+        },
+        "arrows": [
+          {
+            "kind": "pass",
+            "from": [
+              8.4,
+              5.6
+            ],
+            "to": [
+              5.8,
+              1.5
+            ]
+          }
+        ],
+        "screens": []
+      }
+    ],
+    "notes": "AGAINST A 2\u20133 ZONE\nCall this as a counter after a real handoff has made the top defender react. If the defender stays in position, make the real handoff or reverse the ball. On the keep, #99 still has to read the centre rather than force a layup.\n\nAGAINST HALF-COURT MAN\nKeep the ball when the defender cheats to stop #6 receiving. #6 continues his cut to clear space; #99 attacks the opening and passes if help stops him.\n\nAGAINST FULL-COURT MAN\nBeat pressure first. #6, #11 or #99 can advance the ball; offer a return pass. Take an open breakaway, otherwise organise this set in the frontcourt.\n\nTIMING / SPACING\nShow the same entry as the real handoff. Do not push or hook a defender. #6 must keep moving after the fake; both handlers standing together would kill the spacing.",
+    "version": 1,
+    "builtin": false,
+    "source": "https://coachad.com/articles/using-fake-handoffs-to-boost-your-offense/",
+    "updatedAt": "2026-10-14T00:20:02.281Z"
+  },
+  {
+    "id": "block-baseline-99",
+    "title": "Block Baseline: #99 cuts underneath",
+    "summary": "Lift the low defender, seal the centre and send #99 behind the zone.",
+    "category": "offence",
+    "tags": [
+      "2\u20133 zone",
+      "Baseline cut",
+      "Inside finish"
+    ],
+    "frames": [
+      {
+        "label": "1. Freeze the top guard",
+        "note": "#6 dribbles toward the right top defender to hold him. #11 waits below the free-throw-line extended.",
+        "own": {
+          "6": [
+            7.5,
+            9.7
+          ],
+          "11": [
+            13.7,
+            4.7
+          ],
+          "19": [
+            9.5,
+            1.8
+          ],
+          "64": [
+            1.5,
+            6.4
+          ],
+          "99": [
+            5.5,
+            1.6
+          ]
+        },
+        "opponents": {
+          "a": [
+            4.3,
+            7
+          ],
+          "b": [
+            10.7,
+            7
+          ],
+          "c": [
+            2.8,
+            3.4
+          ],
+          "d": [
+            7.5,
+            2.7
+          ],
+          "e": [
+            12.1,
+            3.4
+          ]
+        },
+        "ball": {
+          "side": "own",
+          "player": "6"
+        },
+        "arrows": [
+          {
+            "kind": "dribble",
+            "from": [
+              7.5,
+              9.7
+            ],
+            "to": [
+              10,
+              8.5
+            ]
+          }
+        ],
+        "screens": []
+      },
+      {
+        "label": "2. Wing entry",
+        "note": "#6 passes to #11. Run the baseline action only if the low-right defender comes out to the ball; #19 sets the centre screen.",
+        "own": {
+          "6": [
+            10,
+            8.5
+          ],
+          "11": [
+            13.7,
+            4.7
+          ],
+          "19": [
+            9.5,
+            1.8
+          ],
+          "64": [
+            1.5,
+            6.4
+          ],
+          "99": [
+            5.5,
+            1.6
+          ]
+        },
+        "opponents": {
+          "a": [
+            4.3,
+            7
+          ],
+          "b": [
+            10.9,
+            7.2
+          ],
+          "c": [
+            2.8,
+            3.4
+          ],
+          "d": [
+            7.5,
+            2.7
+          ],
+          "e": [
+            12.3,
+            4.9
+          ]
+        },
+        "ball": {
+          "side": "own",
+          "player": "6"
+        },
+        "arrows": [
+          {
+            "kind": "pass",
+            "from": [
+              10,
+              8.5
+            ],
+            "to": [
+              13.7,
+              4.7
+            ]
+          },
+          {
+            "kind": "move",
+            "from": [
+              9.5,
+              1.8
+            ],
+            "to": [
+              8.8,
+              3
+            ]
+          }
+        ],
+        "screens": [
+          [
+            8.1,
+            2.7
+          ]
+        ]
+      },
+      {
+        "label": "3. Baseline cut",
+        "note": "#99 cuts below the centre from the left block to the right side. #19 holds his legal position to delay the centre\u2019s rotation.",
+        "own": {
+          "6": [
+            10,
+            8.5
+          ],
+          "11": [
+            13.7,
+            4.7
+          ],
+          "19": [
+            8.8,
+            3
+          ],
+          "64": [
+            1.5,
+            6.4
+          ],
+          "99": [
+            5.5,
+            1.6
+          ]
+        },
+        "opponents": {
+          "a": [
+            4.3,
+            7
+          ],
+          "b": [
+            10.9,
+            7.2
+          ],
+          "c": [
+            2.8,
+            3.4
+          ],
+          "d": [
+            7.5,
+            2.7
+          ],
+          "e": [
+            12.3,
+            4.9
+          ]
+        },
+        "ball": {
+          "side": "own",
+          "player": "11"
+        },
+        "arrows": [
+          {
+            "kind": "move",
+            "from": [
+              5.5,
+              1.6
+            ],
+            "to": [
+              10.2,
+              1.5
+            ],
+            "curve": [
+              7.5,
+              0.4
+            ]
+          }
+        ],
+        "screens": [
+          [
+            8.1,
+            2.7
+          ]
+        ]
+      },
+      {
+        "label": "4. Inside catch",
+        "note": "#11 finds #99 behind the lifted low defender. #99 stops in the passing window rather than running through it.",
+        "own": {
+          "6": [
+            10,
+            8.5
+          ],
+          "11": [
+            13.7,
+            4.7
+          ],
+          "19": [
+            8.8,
+            3
+          ],
+          "64": [
+            1.5,
+            6.4
+          ],
+          "99": [
+            10.2,
+            1.5
+          ]
+        },
+        "opponents": {
+          "a": [
+            4.3,
+            7
+          ],
+          "b": [
+            10.9,
+            7.2
+          ],
+          "c": [
+            2.8,
+            3.4
+          ],
+          "d": [
+            7.5,
+            2.7
+          ],
+          "e": [
+            12.3,
+            4.9
+          ]
+        },
+        "ball": {
+          "side": "own",
+          "player": "11"
+        },
+        "arrows": [
+          {
+            "kind": "pass",
+            "from": [
+              13.7,
+              4.7
+            ],
+            "to": [
+              10.2,
+              1.5
+            ]
+          }
+        ],
+        "screens": [
+          [
+            8.1,
+            2.7
+          ]
+        ]
+      }
+    ],
+    "notes": "AGAINST A 2\u20133 ZONE\nThis is a documented 2\u20133-zone set. Its trigger is the low defender coming out to #11. #19 screens the centre and #99 crosses underneath into the open block. If the top guard covers #11 and the low defender stays home, reverse the ball; the intended inside window has not opened.\n\nAGAINST HALF-COURT MAN\nAdapt #19\u2019s screen to #99\u2019s own defender. #99 comes tight off the cross-screen and seals after a switch. Do not assume the middle defender is the correct screening target against man.\n\nAGAINST FULL-COURT MAN\nBeat pressure first. #6, #11 or #99 can advance the ball; offer a return pass. Take an open breakaway, otherwise organise this set in the frontcourt.\n\nTIMING / SPACING\nWing entry first, centre screen second, cutter third. Keep the screen stationary and give a defender who cannot see it room to react. #99 shows hands and stops for the catch.",
+    "version": 1,
+    "builtin": false,
+    "source": "https://www.breakthroughbasketball.com/playcreator/view.asp?ID=39&type=play",
+    "updatedAt": "2026-10-14T00:20:08.982Z"
+  },
+  {
+    "id": "anchors-x-cut",
+    "title": "Anchors X-cut: middle flash + dive",
+    "summary": "On reversal, #99 dives first and #19 flashes through the middle second.",
+    "category": "offence",
+    "tags": [
+      "2\u20133 zone",
+      "Middle cut",
+      "Baseline dive"
+    ],
+    "frames": [
+      {
+        "label": "1. Entry right",
+        "note": "#6 passes to #11. #99 starts high on the right; #19 starts low on that side.",
+        "own": {
+          "6": [
+            7.5,
+            9.7
+          ],
+          "11": [
+            13.5,
+            6.4
+          ],
+          "19": [
+            10.8,
+            1.5
+          ],
+          "64": [
+            1.5,
+            6.4
+          ],
+          "99": [
+            8.8,
+            5.4
+          ]
+        },
+        "opponents": {
+          "a": [
+            4.3,
+            7
+          ],
+          "b": [
+            10.7,
+            7
+          ],
+          "c": [
+            2.8,
+            3.4
+          ],
+          "d": [
+            7.5,
+            2.7
+          ],
+          "e": [
+            12.1,
+            3.4
+          ]
+        },
+        "ball": {
+          "side": "own",
+          "player": "6"
+        },
+        "arrows": [
+          {
+            "kind": "pass",
+            "from": [
+              7.5,
+              9.7
+            ],
+            "to": [
+              13.5,
+              6.4
+            ]
+          }
+        ],
+        "screens": []
+      },
+      {
+        "label": "2. Reverse",
+        "note": "#11 returns the ball to #6 to move the zone back across.",
+        "own": {
+          "6": [
+            7.5,
+            9.7
+          ],
+          "11": [
+            13.5,
+            6.4
+          ],
+          "19": [
+            10.8,
+            1.5
+          ],
+          "64": [
+            1.5,
+            6.4
+          ],
+          "99": [
+            8.8,
+            5.4
+          ]
+        },
+        "opponents": {
+          "a": [
+            4.3,
+            7
+          ],
+          "b": [
+            11.8,
+            6.7
+          ],
+          "c": [
+            2.8,
+            3.4
+          ],
+          "d": [
+            7.5,
+            2.7
+          ],
+          "e": [
+            12.1,
+            3.4
+          ]
+        },
+        "ball": {
+          "side": "own",
+          "player": "11"
+        },
+        "arrows": [
+          {
+            "kind": "pass",
+            "from": [
+              13.5,
+              6.4
+            ],
+            "to": [
+              7.5,
+              9.7
+            ]
+          }
+        ],
+        "screens": []
+      },
+      {
+        "label": "3. Dive first",
+        "note": "#6 moves to the left wing; #64 fills the top around the outside. #99 cuts from the high post down to the left block FIRST.",
+        "own": {
+          "6": [
+            7.5,
+            9.7
+          ],
+          "11": [
+            13.5,
+            6.4
+          ],
+          "19": [
+            10.8,
+            1.5
+          ],
+          "64": [
+            1.5,
+            6.4
+          ],
+          "99": [
+            8.8,
+            5.4
+          ]
+        },
+        "opponents": {
+          "a": [
+            4.2,
+            6.8
+          ],
+          "b": [
+            9.7,
+            6.8
+          ],
+          "c": [
+            2.5,
+            5.5
+          ],
+          "d": [
+            7,
+            2.7
+          ],
+          "e": [
+            10.4,
+            2.9
+          ]
+        },
+        "ball": {
+          "side": "own",
+          "player": "6"
+        },
+        "arrows": [
+          {
+            "kind": "dribble",
+            "from": [
+              7.5,
+              9.7
+            ],
+            "to": [
+              1.5,
+              6.4
+            ]
+          },
+          {
+            "kind": "move",
+            "from": [
+              1.5,
+              6.4
+            ],
+            "to": [
+              7.5,
+              9.7
+            ],
+            "curve": [
+              1.1,
+              9.9
+            ]
+          },
+          {
+            "kind": "move",
+            "from": [
+              8.8,
+              5.4
+            ],
+            "to": [
+              5.5,
+              1.8
+            ]
+          }
+        ],
+        "screens": []
+      },
+      {
+        "label": "4. Middle cut second",
+        "note": "After #99 clears the crossing point, #19 flashes diagonally from the right short corner into the left middle gap.",
+        "own": {
+          "6": [
+            1.5,
+            6.4
+          ],
+          "11": [
+            13.5,
+            6.4
+          ],
+          "19": [
+            10.8,
+            1.5
+          ],
+          "64": [
+            7.5,
+            9.7
+          ],
+          "99": [
+            5.5,
+            1.8
+          ]
+        },
+        "opponents": {
+          "a": [
+            4.2,
+            6.8
+          ],
+          "b": [
+            9.7,
+            6.8
+          ],
+          "c": [
+            2.5,
+            5.5
+          ],
+          "d": [
+            7,
+            2.7
+          ],
+          "e": [
+            10.4,
+            2.9
+          ]
+        },
+        "ball": {
+          "side": "own",
+          "player": "6"
+        },
+        "arrows": [
+          {
+            "kind": "move",
+            "from": [
+              10.8,
+              1.5
+            ],
+            "to": [
+              6,
+              5.4
+            ]
+          }
+        ],
+        "screens": []
+      },
+      {
+        "label": "5. High-low read",
+        "note": "#6 finds #19 in the middle. If the centre comes up, #19 gives the quick high-low pass to #99 below him.",
+        "own": {
+          "6": [
+            1.5,
+            6.4
+          ],
+          "11": [
+            13.5,
+            6.4
+          ],
+          "19": [
+            6,
+            5.4
+          ],
+          "64": [
+            7.5,
+            9.7
+          ],
+          "99": [
+            5.5,
+            1.8
+          ]
+        },
+        "opponents": {
+          "a": [
+            4.2,
+            6.8
+          ],
+          "b": [
+            9.7,
+            6.8
+          ],
+          "c": [
+            2.5,
+            5.5
+          ],
+          "d": [
+            6.7,
+            4
+          ],
+          "e": [
+            10.4,
+            2.9
+          ]
+        },
+        "ball": {
+          "side": "own",
+          "player": "6"
+        },
+        "arrows": [
+          {
+            "kind": "pass",
+            "from": [
+              1.5,
+              6.4
+            ],
+            "to": [
+              6,
+              5.4
+            ]
+          },
+          {
+            "kind": "pass",
+            "from": [
+              6,
+              5.4
+            ],
+            "to": [
+              5.5,
+              1.8
+            ]
+          }
+        ],
+        "screens": []
+      }
+    ],
+    "notes": "AGAINST A 2\u20133 ZONE\nThis adapts the Anchors post X-cut used against a 2\u20133. Reverse the ball, then send the HIGH player first and the LOW player second. The crossing cuts force the zone to cover two different levels. #19 faces the rim and reads #99 underneath; he can finish himself if the middle is open.\n\nAGAINST HALF-COURT MAN\nUse the post exchange to cut across your own defenders and establish inside position. If both catches are denied, flow into #19 screening for #6 while #99 clears or seals, rather than forcing a pass through a covered zone-style gap.\n\nAGAINST FULL-COURT MAN\nBeat pressure first. #6, #11 or #99 can advance the ball; offer a return pass. Take an open breakaway, otherwise organise this set in the frontcourt.\n\nTIMING / SPACING\nStagger the cuts. #99 goes first, #19 follows after the paths clear. #64 stays as the reversal outlet; #11 keeps the far wing available. Neither cutter waits in the lane.",
+    "version": 1,
+    "builtin": false,
+    "source": "https://www.coachesclipboard.net/AnchorsZoneOffense.html",
+    "updatedAt": "2026-10-14T00:20:15.596Z"
+  }
+]
